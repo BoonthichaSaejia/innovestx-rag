@@ -1,0 +1,25 @@
+Text Content:
+div: 01
+h3: ขั้นตอนการซื้อประกัน FWD สำหรับลูกค้า InnovestX
+div: 1. เข้าหน้า Home เลือก “เมนูทั้งหมด”
+div: 2. กดเลือก “ประกันดิจิทัล”
+div: 3. กดเลือก ซื้อประกันตามประเภทที่ต้องการ
+div: 4. กด เข้าสู่ระบบ
+div: 5. ยืนยันตัวตน ด้วยการกรอก PIN หรือ สแกนใบหน้า
+div: 6. กด ยอมรับ คำยินยอมให้ใช้ข้อมูลส่วนบุคคลกับ FWD
+div: 7. เข้าสู่เว็บไซต์ FWD เพื่อทำการซื้อประกัน
+div: 8. เข้าสู่เว็บไซต์ FWD เพื่อทำการซื้อประกัน
+div: 9. กรอกโค้ด INVX10 ในช่องรหัสโปรโมชั่น เพื่อรับส่วนลดค่าเบี้ยประกันปีแรก 10%
+
+Links:
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-invx/fwd-insurance/fwd-01.png
+https://www.innovestx.co.th/images/default-source/manual-invx/fwd-insurance/fwd-02.png
+https://www.innovestx.co.th/images/default-source/manual-invx/fwd-insurance/fwd-03.png
+https://www.innovestx.co.th/images/default-source/manual-invx/fwd-insurance/fwd-04.png
+https://www.innovestx.co.th/images/default-source/manual-invx/fwd-insurance/fwd-05.png
+https://www.innovestx.co.th/images/default-source/manual-invx/fwd-insurance/fwd-06.png
+https://www.innovestx.co.th/images/default-source/manual-invx/fwd-insurance/fwd-07.png
+https://www.innovestx.co.th/images/default-source/manual-invx/fwd-insurance/fwd-08.png
+https://www.innovestx.co.th/images/default-source/manual-invx/fwd-insurance/386468002_667906328799933_6207034039617193855_n.png

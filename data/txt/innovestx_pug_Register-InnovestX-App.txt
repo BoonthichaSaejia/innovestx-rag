@@ -1,0 +1,31 @@
+Text Content:
+h1: สำหรับลูกค้าที่มีบัญชีลงทุน InnovestX อยู่แล้ว แต่ยังไม่เคยลงทะเบียนเข้าใช้งานแอปพลิเคชัน InnovestX
+h3: สำหรับลูกค้าปัจจุบัน
+h2: 1. กดปุ่ม ลงทะเบียน/ เข้าสู่ระบบ​ 2. สำหรับลูกค้าปัจจุบัน​ กด เริ่มดำเนินการ​ ​3. กรอกเลขบัตรประชาชน​ แล้วกด ถัดไป​ 4. กรอก วันเดือนปีเกิด​ แล้วกด ตกลง​ 5. กรอก PIN ที่เคยตั้งใน​ InnovestX app​ *ท่านสามารถกดปุ่ม “ลืมรหัส PIN” เพื่อขอรีเซท PIN ใหม่ 6. กด ถัดไป​ 7. เลือกเบอร์โทรศัพท์เพื่อส่ง OTP 8. กรอก OTP 9. เข้าสู่หน้าหลังล็อกอิน พร้อมลงทุน โดยในการใช้งานครั้งถัดไป ลูกค้าจะสามารถเลือกเข้าใช้งานแอป InnovestX ได้ 2 วิธีคือ 1. เข้าใช้งานด้วย PIN 6 หลัก 2. เข้าใช้งานด้วยระบบ Biometrics สแกนใบหน้า หรือ ลายนิ้วมือ
+div: 1. กดปุ่ม ลงทะเบียน/ เข้าสู่ระบบ​
+div: 2. สำหรับลูกค้าปัจจุบัน​ กด เริ่มดำเนินการ​
+div: ​3. กรอกเลขบัตรประชาชน​ แล้วกด ถัดไป​
+h2: 4. กรอก วันเดือนปีเกิด​ แล้วกด ตกลง​ 5. กรอก PIN ที่เคยตั้งใน​ InnovestX app​ *ท่านสามารถกดปุ่ม “ลืมรหัส PIN” เพื่อขอรีเซท PIN ใหม่ 6. กด ถัดไป​ 7. เลือกเบอร์โทรศัพท์เพื่อส่ง OTP 8. กรอก OTP 9. เข้าสู่หน้าหลังล็อกอิน พร้อมลงทุน โดยในการใช้งานครั้งถัดไป ลูกค้าจะสามารถเลือกเข้าใช้งานแอป InnovestX ได้ 2 วิธีคือ 1. เข้าใช้งานด้วย PIN 6 หลัก 2. เข้าใช้งานด้วยระบบ Biometrics สแกนใบหน้า หรือ ลายนิ้วมือ
+div: 4. กรอก วันเดือนปีเกิด​ แล้วกด ตกลง​
+div: 5. กรอก PIN ที่เคยตั้งใน​ InnovestX app​ *ท่านสามารถกดปุ่ม “ลืมรหัส PIN” เพื่อขอรีเซท PIN ใหม่
+div: 6. กด ถัดไป​
+h2: 7. เลือกเบอร์โทรศัพท์เพื่อส่ง OTP 8. กรอก OTP 9. เข้าสู่หน้าหลังล็อกอิน พร้อมลงทุน โดยในการใช้งานครั้งถัดไป ลูกค้าจะสามารถเลือกเข้าใช้งานแอป InnovestX ได้ 2 วิธีคือ 1. เข้าใช้งานด้วย PIN 6 หลัก 2. เข้าใช้งานด้วยระบบ Biometrics สแกนใบหน้า หรือ ลายนิ้วมือ
+div: 7. เลือกเบอร์โทรศัพท์เพื่อส่ง OTP
+div: 8. กรอก OTP
+div: 9. เข้าสู่หน้าหลังล็อกอิน พร้อมลงทุน
+
+Links:
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/(1)freemium-page.png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/(2)-check_onboarding_start.png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/(3)cid-check_onboarding_start.png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/(4)1st-login_dob-(existing-user).png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/(5)pin-(existing-user).png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/(6)-device_manage(existing-user).png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/(7)-list-of-mobile-no.(existing-user).png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/(8)-otp_mobile(existing-user).png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/(9)premium_exiting-user.png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/(1)freemium-page.png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/31052023/457492380498264389.png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/(9)premium_exiting-user.png

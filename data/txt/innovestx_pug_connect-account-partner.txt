@@ -1,0 +1,20 @@
+Text Content:
+h2: วิธีการเชื่อมต่อบัญชีกับพาร์ทเนอร์ด้วย Username/Password และ QR Code เพื่อเริ่มใช้งาน
+h2: วิธีการเชื่อมต่อบัญชีด้วย Username/Password
+h2: วิธีการเชื่อมต่อบัญชีด้วย QR Code
+
+Links:
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-invx/connect-acount-partner/connec.png
+https://www.innovestx.co.th/images/default-source/manual-invx/connect-acount-partner/login-(2).png
+https://www.innovestx.co.th/images/default-source/manual-invx/connect-acount-partner/otpsingle.png
+https://www.innovestx.co.th/images/default-source/manual-invx/connect-acount-partner/consent-(2).png
+https://www.innovestx.co.th/images/default-source/manual-invx/connect-acount-partner/connecting.png
+https://www.innovestx.co.th/images/default-source/manual-invx/connect-acount-partner/connec.png
+https://www.innovestx.co.th/images/default-source/manual-invx/connect-acount-partner/login-(2).png
+https://www.innovestx.co.th/images/default-source/manual-invx/connect-acount-partner/app1.png
+https://www.innovestx.co.th/images/default-source/manual-invx/connect-acount-partner/scan-qr2.png
+https://www.innovestx.co.th/images/default-source/manual-invx/connect-acount-partner/otpsingle.png
+https://www.innovestx.co.th/images/default-source/manual-invx/connect-acount-partner/consent-(2).png
+https://www.innovestx.co.th/images/default-source/manual-invx/connect-acount-partner/connecting.png

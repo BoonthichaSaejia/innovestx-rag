@@ -1,0 +1,124 @@
+Text Content:
+h1: Intelligent Portfolios
+div: O
+h3: เข้าสู่บริการ Intelligent Portfolios
+div: เริ่มต้นเข้าสู่บริการ Intelligent Portfolios - เข้าสู่ระบบ InnovestX - เลือกเมนู Intelligent Portfolio
+div: เลือกประเภทแผนการลงทุน - เลือก ROBO ADVISOR เพื่อเข้าสู่ระบบ ROBO ADVISOR เดิม - เลือก Portfolio Advisor สำหรับแผนการลงทุน Thematic Portfolio, Goal-Based Portfolio หรือ Guru Portfolio
+div: O
+h3: ข้อมูลแผนการลงทุน Thematic Portfolio
+div: 1. เลือก Thematic Portfolio
+div: 2. เลือกธีมที่ต้องการสร้างพอร์ต
+div: 3. ศึกษาข้อมูลของแผนโดยการเลือก “ข้อมูลแผน”
+div: 4. สามารถศึกษาข้อมูลของแผนโดยการเลือก “สัดส่วนการลงทุน”
+div: 5. เริ่มขั้นตอนสร้างพอร์ตการลงทุนโดยเลือก “เลือกแผนนี้”
+div: O
+h3: สร้างแผนการลงทุน Thematic Portfolio
+div: 1. เริ่มต้นสร้างแผนการลงทุน - ระบุ “ชื่อแผนการลงทุน” - ระบุ เงินลงทุนก้อนแรก - กรณีตั้งลงทุนรายเดือน เลือก เปิดการลงทุนรายเดือน - ระบุ วันที่ - ระบุ เงินลงทุนรายเดือน
+div: 2. ตรวจสอบข้อมูลแผนการลงทุน
+div: 3. กด “สร้างแผนการลงทุน" เพื่อไปหน้า รายการสั่งซื้อ
+div: 4. ตรวจสอบรายการสั่งซื้อ กด “ยืนยันรายการสั่งซื้อ” เพื่อส่งคำสั่งซื้อ
+div: 5. ใส่ PIN 6 หลัก
+div: 6. ตรวจสอบสถานะคำสั่งซื้อได้โดยกด “ดูประวัติการทำรายการ”
+div: O
+h3: สร้างแผนการลงทุน Goal-Based Portfolio
+div: 1. เลือก Goal-Based Portfolio
+div: 2. เลือกเป้าหมายการลงทุนที่ต้องการสร้าง
+div: เริ่มต้นสร้างแผนการลงทุน - ระบุ “ชื่อแผนการลงทุน” - ระบุ “เงินลงทุนก้อนแรก” - ระบุ “ระยะเวลาการลงทุน” กรณี ตั้งลงทุนรายเดือน เลือก “เปิดการลงทุนรายเดือน” - ระบุ “วันที่” - ระบุ “เงินลงทุนรายเดือน"
+div: O
+h3: ข้อมูลแผนการลงทุน Goal-Based Portfolio
+div: ศึกษาข้อมูลแผน
+div: ศึกษาสัดส่วนการลงทุน
+div: ศึกษาผลการดำเนินงาน
+div: O
+h3: ตรวจสอบแผนการลงทุน Goal-Based Portfolio
+div: ตรวจสอบรายละเอียดของแผนโดยเลือก “สัดส่วนการลงทุน” และ “ผลตอบแทนที่คาดหวัง”
+div: เมื่อตรวจสอบข้อมูลแผนการลงทุนเรียบร้อยแล้ว กด “สร้างแผนการลงทุน" เพื่อไปหน้า รายการสั่งซื้อ
+div: O
+h3: ส่งคำสั่งซื้อ - Goal-Based Portfolio
+div: ตรวจสอบรายการสั่งซื้อ
+div: กด “ยืนยันรายการสั่งซื้อ”เพื่อส่งคำสั่งซื้อ
+div: ใส่ PIN 6 หลัก
+div: ตรวจสอบสถานะคำสั่งซื้อได้โดยกด “ดูประวัติการทำรายการ”
+div: O
+h3: ตรวจสอบแผนการลงทุน GURU Portfolio
+div: 1. เลือกแผนการลงทุนที่ต้องการ
+div: 2. ศึกษาข้อมูลของแผนโดยการเลือก “ข้อมูลแผน”
+div: 3. สามารถศึกษาข้อมูลของแผนโดยการเลือก “สัดส่วนการลงทุน”
+div: 4. เริ่มขั้นตอนสร้างพอร์ตการลงทุนโดยเลือก “เลือกแผนนี้”
+div: O
+h3: ยืนยันคำสั่งซื้อ GURU Portfolio
+div: 1. เริ่มต้นสร้างแผนการลงทุน - ระบุ “ชื่อแผนการลงทุน” - ระบุ เงินลงทุนก้อนแรก กรณีตั้งลงทุนรายเดือน เลือก เปิดการลงทุนรายเดือน - ระบุ วันที่ - ระบุ เงินลงทุนรายเดือน
+div: 2. ตรวจสอบข้อมูลแผนการลงทุน
+div: 3. กด “สร้างแผนการลงทุน" เพื่อไปหน้า รายการสั่งซื้อ
+div: 4. ตรวจสอบรายการสั่งซื้อ กด “ยืนยันรายการสั่งซื้อ” เพื่อส่งคำสั่งซื้อ
+div: 5. ใส่ PIN 6 หลัก
+div: 6. ตรวจสอบสถานะคำสั่งซื้อได้โดยกด “ดูประวัติการทำรายการ”
+div: O
+h3: เพิ่มเงินลงทุน
+div: เลือกพอร์ตที่ต้องการ เพิ่มเงินลงทุน
+div: กด “เพิ่มเงินลงทุน” เพื่อส่งคำสั่งซื้อ
+div: ใส่จำนวนเงินที่ต้องการ
+div: ตรวจสอบรายการสั่งซื้อ
+div: กด “ยืนยันรายการสั่งซื้อ”เพื่อส่งคำสั่งซื้อ
+div: ใส่ PIN 6 หลัก
+div: ตรวจสอบสถานะคำสั่งซื้อได้โดยกด “ดูประวัติการทำรายการ”
+div: O
+h3: ถอนเงินลงทุน
+div: เลือกพอร์ตที่ต้องการ ถอนเงินลงทุน
+div: กด “ถอนเงินลงทุน”
+div: ใส่จำนวนเงินที่ต้องการ
+div: ตรวจสอบรายการขาย กด “ยืนยันรายการขาย” เพื่อส่งคำสั่ง
+div: ใส่ PIN 6 หลัก
+div: ตรวจสอบสถานะคำสั่งได้โดยกด “ดูประวัติการทำรายการ”
+
+Links:
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/01.select_intelligence_portfolio.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/02.intelligent-portfolio.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/03.intelligent-portfolio.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/04.homepage.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/05.single-model-page.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/06.single-model-page-1.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/07.single-model-page-2.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/08.create_plan.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/09.frame-4186.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/10.frame-4186.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/11.cart_ideal_default-copy.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/12.pin_default_ideal-2-copy-2.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/13.reciept(realtime)_default_ideal-2.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/14.intelligent-portfolio.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/15.frame-1814.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/16.frame-4138.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/17.income-model.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/18.income-model-1.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/19.income-model-2.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/20.-summary-of-portfolio.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/21.-summary_performance.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/22.v2_preconfirm_ideal_default-2.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/23.v2_preconfirm_ideal_default-2.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/24.pin_default_ideal-2-copy-3.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/25.reciept(realtime)_default_ideal-2.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/26.homepage.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/27.frame-4288.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/28.single-model-page.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/29.single-model-page-1.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/08.create_plan.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/09.frame-4186.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/10.frame-4186.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/33.cart_ideal_default.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/31.frame-4186.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/32.frame-4186.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/36.select_port.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/37.add_up_more.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/38.fill_the_amount.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/39.cart_ideal_default-1-copy.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/40.cart_ideal_default-1.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/47.pin_default_ideal-2.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/48.reciept(realtime)_default_ideal-2-copy.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/43.select_port.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/44.withdraw_investment.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/45.fill_the_amount.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/46.confirm_list.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/47.pin_default_ideal-2.png
+https://www.innovestx.co.th/images/default-source/maunal-intelligence-portfolio/48.reciept(realtime)_default_ideal-2-copy.png

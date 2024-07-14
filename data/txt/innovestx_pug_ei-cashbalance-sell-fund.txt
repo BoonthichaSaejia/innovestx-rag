@@ -1,0 +1,24 @@
+Text Content:
+h1: ขอเอกสารรายการเดินบัญชีรายเดือน
+div: 01
+h3: เลือก “บัญชีบริหารเงินสด” แล้วเลือก “ขอเอกสาร”
+div: เลือก ”บัญชีบริหารเงินสด”
+div: เลือก “ขอเอกสาร”
+div: 02
+h3: เลือกช่วงเวลา แล้วเลือก “ส่งคำขอ”
+div: ระบุ “เดือนเริ่มต้น” และ“จนถึงเดือน” ที่ต้องการขอเอกสารเลือก “ส่งคำขอ“
+div: ได้รับข้อความแสดง การจัดส่งเอกสารไปยังอีเมลของท่าน
+
+Links:
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-withdrawal
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-activitiy
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/topup-scb-account
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/topup-qrcode
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-buy-fund
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-sell-fund
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/request-monthly-statement/01.picture52.png
+https://www.innovestx.co.th/images/default-source/request-monthly-statement/48.picture28.png
+https://www.innovestx.co.th/images/default-source/request-monthly-statement/49.picture29.png
+https://www.innovestx.co.th/images/default-source/request-monthly-statement/50.picture30.png

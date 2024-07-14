@@ -1,0 +1,38 @@
+Text Content:
+h1: เปลี่ยนการเข้าใช้งานล็อกอินแอปพลิเคชัน InnovestX ​
+จาก Username/ Password เป็น PIN​
+h3: สำหรับลูกค้าปัจจุบัน
+div: 1. กดปุ่ม ลงทะเบียน/ เข้าสู่ระบบ​
+div: 2. สำหรับลูกค้าปัจจุบัน​ กด เริ่มดำเนินการ​
+div: ​3. กรอกเลขบัตรประชาชน​ แล้วกด ถัดไป​
+div: 4. กรอก วันเดือนปีเกิด​ แล้วกด ตกลง​
+div: 5. กรอก PIN ที่เคยตั้งใน​ InnovestX app​ *ท่านสามารถกดปุ่ม “ลืมรหัส PIN” เพื่อขอรีเซท PIN ใหม่
+div: 6. กด ถัดไป​
+div: 7. เลือกเบอร์โทรศัพท์เพื่อส่ง OTP
+div: 8. กรอก OTP
+div: 9. เข้าสู่หน้าหลังล็อกอิน พร้อมลงทุน
+h3: สำหรับลูกค้าใหม่
+div: 1. กดปุ่ม ลงทะเบียน/ เข้าสู่ระบบ​
+div: 2. กด เริ่มต้นลงทะเบียน​
+div: ​3. กรอกเลขบัตรประชาชน​ แล้วกด ถัดไป​
+div: 4. กดปุ่มเปิดบัญชี เพื่อเปิดบัญชีลงทุน ​
+
+Links:
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/(1)freemium-page.png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/(2)-check_onboarding_start.png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/(3)cid-check_onboarding_start.png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/(4)1st-login_dob-(existing-user).png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/(5)pin-(existing-user).png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/(6)-device_manage(existing-user).png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/(7)-list-of-mobile-no.(existing-user).png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/(8)-otp_mobile(existing-user).png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/(9)premium_exiting-user.png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/(1)freemium-page.png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/pin-screen-blue.png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/(9)premium_exiting-user.png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/new-users/(1)freemium-page.png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/new-users/(2)-check_onboarding_start.png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/new-users/(3)cid-check_onboarding_start.png
+https://www.innovestx.co.th/images/default-source/manual-pin-screen/new-users/(4)-onboard_tutorial(new-user).png

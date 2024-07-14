@@ -1,0 +1,39 @@
+Text Content:
+div: 01
+h3: แลกคะแนนสะสมผ่านแอปพลิเคชันที่เข้าร่วมโครงการ
+div: กดแลกคะแนนสะสมผ่านแอปพลิเคชันที่เข้าร่วมโครงการ
+div: ระบบจะแสดงรหัสส่วนลดสำหรับซื้อกองทุนรวมผ่าน InnovestXกดคัดลอกรหัสส่วนลด หรือบันทึกภาพหน้าจอ
+div: 02
+h3: เลือกกองทุนรวมที่สนใจ แล้วกด ”Buy”
+div: เลือกกองทุนรวมที่สนใจจากเมนู “invest” หรือค้นหากองทุนรวมจากปุ่มแว่นขยายบริเวณมุมขวาบน
+div: ศึกษารายละเอียดกองทุนรวมที่สนใจแล้วกดปุ่ม ”Buy”
+div: เลือก ”บัญชีบริหารเงินสด”เป็นบัญชีชำระเงิน
+div: 03
+h3: ระบุรหัสส่วนลดและกด “ตรวจสอบข้อมูล”
+div: ระบุจำนวนเงินที่ต้องการซื้อกองทุนรวม
+div: กดช่อง “ระบุรหัสส่วนลด”
+div: ระบุรหัสส่วนลด และกดปุ่ม “ค้นหา”
+div: 04
+h3: ระบุรหัสส่วนลด กด“ตรวจสอบข้อมูล” และศึกษารายละเอียดหนังสือชี้ชวน
+div: กดปุ่ม “ใช้เดี๋ยวนี้”
+div: กดปุ่ม ”ตรวจสอบข้อมูล”
+div: กรอกรหัส PIN เพื่อยืนยันการส่งคำสั่งซื้อ
+div: กรอกรหัส PIN เพื่อยืนยันการส่งคำสั่งซื้อ
+div: ส่งคำสั่งซื้อเข้าระบบได้สำเร็จ
+
+Links:
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/test/01.redeem_point.png
+https://www.innovestx.co.th/images/default-source/manual-pti/02.discount_code.png
+https://www.innovestx.co.th/images/default-source/manual-pti/03.picture13.png
+https://www.innovestx.co.th/images/default-source/manual-pti/04.picture18.png
+https://www.innovestx.co.th/images/default-source/manual-pti/05.select_account.png
+https://www.innovestx.co.th/images/default-source/manual-pti/06.input_amount.png
+https://www.innovestx.co.th/images/default-source/manual-pti/07.input_discount.png
+https://www.innovestx.co.th/images/default-source/manual-pti/08.picture22.png
+https://www.innovestx.co.th/images/default-source/manual-pti/09.picture23.png
+https://www.innovestx.co.th/images/default-source/manual-pti/10.picture24.png
+https://www.innovestx.co.th/images/default-source/manual-pti/11.detail_checking.png
+https://www.innovestx.co.th/images/default-source/manual-pti/12.pin_default_filling.png
+https://www.innovestx.co.th/images/default-source/manual-pti/13.done.png

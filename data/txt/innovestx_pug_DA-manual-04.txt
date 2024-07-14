@@ -1,0 +1,42 @@
+Text Content:
+h1: การเติมเงินบาทจะมีอยู่ 2 ประเภทดังนี้
+span: 1. เติมเงินจากบัญชีธนาคารไทยพาณิชย์ เข้าบัญชีบริหารเงินสด 2. เติมเงินจากบัญชีบริหารเงินสด เข้าบัญชีสินทรัพย์ดิจิทัล
+span: กรุณาทำรายการเติมเงินนอกช่วงเวลา 15.25 - 15.40 และ 22.55 - 23.10 น.
+div: 01
+h3: เติมเงินจากบัญชีธนาคารไทยพาณิชย์ เข้าบัญชีบริหารเงินสด
+div: 1. เลือก "วิธีชำระเงิน"
+div: 2. เลือกบัญชีธนาคาร* ที่ต้องการใช้เป็นบัญชีชำระเงิน
+div: 3. ระบุจำนวนเงินโดยขั้นต่ำอยู่ที่ 2,000 บาทแล้วกด"ตรวจสอบข้อมูล"
+div: 4. ยืนยันรายการเติมเงิน
+div: 5. กรอกรหัส PIN
+div: 6. ทำรายการสำเร็จ
+div: 02
+h3: เติมเงินจากบัญชีบริหารเงินสด เข้าบัญชีสินทรัพย์ดิจิทัล
+div: 1. เลือก "สินทรัพย์ดิจิทัล"
+div: 2. เลือก "กระเป๋า"
+div: 3. เลือก "บัญชีสินทรัพย์ดิจิทัล"
+div: 4. เลือก "เติมเงิน"
+div: 5. เลือกวิธีชำระเงิน
+div: 6. เลือก "บัญชีบริหารเงินสด"
+div: 7. ระบุจำนวนเงินโดยขั้นต่ำอยู่ที่ 2,000 บาทและเลือกตรวจสอบข้อมูล
+div: 8. ตรวจสอบข้อมูล และกดยืนยัน
+div: 9. หากเติมเงินสำเร็จสถานะจะมีเครื่องหมายถูกอยู่ด้านหน้า และปรากฎหน้าจอดังภาพ
+
+Links:
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-da/01-การเต-มเง-นบาท/manual_ep1_top_up-01.png
+https://www.innovestx.co.th/images/default-source/manual-da/01-การเต-มเง-นบาท/manual_ep1_top_up-02.png
+https://www.innovestx.co.th/images/default-source/manual-da/01-การเต-มเง-นบาท/manual_ep1_top_up-03.png
+https://www.innovestx.co.th/images/default-source/manual-da/01-การเต-มเง-นบาท/manual_ep1_top_up-04.png
+https://www.innovestx.co.th/images/default-source/manual-da/01-การเต-มเง-นบาท/manual_ep1_top_up-05.png
+https://www.innovestx.co.th/images/default-source/manual-da/01-การเต-มเง-นบาท/manual_ep1_top_up-06.png
+https://www.innovestx.co.th/images/default-source/manual-da/01-การเต-มเง-นบาท/manual_ep1_top_up-07.png
+https://www.innovestx.co.th/images/default-source/manual-da/01-การเต-มเง-นบาท/manual_ep1_top_up-08.png
+https://www.innovestx.co.th/images/default-source/manual-da/01-การเต-มเง-นบาท/manual_ep1_top_up-09.png
+https://www.innovestx.co.th/images/default-source/manual-da/01-การเต-มเง-นบาท/manual_ep1_top_up-10.png
+https://www.innovestx.co.th/images/default-source/manual-da/01-การเต-มเง-นบาท/manual_ep1_top_up-11.png
+https://www.innovestx.co.th/images/default-source/manual-da/01-การเต-มเง-นบาท/manual_ep1_top_up-12.png
+https://www.innovestx.co.th/images/default-source/manual-da/01-การเต-มเง-นบาท/manual_ep1_top_up-13.png
+https://www.innovestx.co.th/images/default-source/manual-da/01-การเต-มเง-นบาท/manual_ep1_top_up-14.png
+https://www.innovestx.co.th/images/default-source/manual-da/01-การเต-มเง-นบาท/manual_ep1_top_up-15.png

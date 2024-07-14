@@ -1,0 +1,101 @@
+Text Content:
+h1: Forgot PIN สำหรับลูกค้า ที่ login เข้าสู่ระบบแล้ว
+div: 01
+h3: Forgot PIN: สำหรับลูกค้า ที่ login เข้าสู่ระบบแล้ว
+div: 1. กด ลืมรหัส PIN
+div: 2. เลือกเบอร์โทรศัพท์เพื่อส่ง OTP กรณีมีหลายเบอร์
+div: 3. กรอก OTP
+div: 02
+h3: Forgot PIN : สำหรับลูกค้า ที่ login เข้าสู่ระบบแล้ว – ยืนยันตัวตนด้วย Email
+div: 1. เลือกยืนยันตัวตนด้วย email OTP แล้วกด ตกลง
+div: 2. กรอก email OTP
+div: 3. ตั้งรหัส PIN
+div: 4. ยืนยันรหัส PIN
+div: 5. กดเข้าสู่ระบบ
+div: 6. ใส่ PIN ที่ตั้งเสร็จ
+div: 7. เข้าสู่หน้า Home ของ Application
+div: 03
+h3: Forgot PIN : สำหรับลูกค้า ที่ login เข้าสู่ระบบแล้ว– ยืนยันตัวตนด้วยใบหน้า
+div: 1. เลือกยืนยันตัวตนด้วยใบหน้า แล้วกด ตกลง
+div: 2. กดตกลง
+div: 3. กด Enable เพื่อเปิดกล้อง
+div: 4. กด I’m Ready เพื่อเริ่มถ่ายรูป
+div: 5. ขึ้นหน้ายืนยันตัวตนสำเร็จ
+div: 6. ตั้งรหัส PIN
+div: 7. ยืนยันรหัส PIN
+div: 8. กดเข้าสู่ระบบ
+div: 9. ใส่ PIN ที่ตั้งเสร็จ
+div: 10. เข้าสู่หน้า Home ของ Application
+h1: Forgot PIN สำหรับลูกค้า ที่ยังไม่ได้ login เข้าสู่ระบบ
+div: 01
+h3: สำหรับลูกค้า ที่ยังไม่ได้ login เข้าสู่ระบบ
+div: 1. กด ลืมรหัส PIN
+div: 2. กรอกเลขบัตรประชาชน และ วันเดือนปีเกิด แล้วกด ถัดไป
+div: 3. เลือกเบอร์โทรศัพท์เพื่อส่ง OTP กรณีมีหลายเบอร์
+div: 4. กรอก OTP
+div: 02
+h3: Forgot PIN : สำหรับลูกค้าที่ยังไม่ได้ login เข้าสู่ระบบ– ยืนยันตัวตนด้วย Email
+div: 1. เลือกยืนยันตัวตนด้วย email OTP แล้วกด ตกลง
+div: 2. กรอก email OTP
+div: 3. ตั้งรหัส PIN
+div: 4. ยืนยันรหัส PIN
+div: 5. กดเข้าสู่ระบบ
+div: 6. ใส่ PIN ที่ตั้งเสร็จ
+div: 7. เข้าสู่หน้า Home ของ Application
+div: 03
+h3: Forgot PIN : สำหรับลูกค้าที่ยังไม่ได้ login เข้าสู่ระบบ– ยืนยันตัวตนด้วยใบหน้า
+div: 1. เลือกยืนยันตัวตนด้วยใบหน้า แล้วกด ตกลง
+div: 2. กดตกลง
+div: 3. กด Enable เพื่อเปิดกล้อง
+div: 4. กด I’m Ready เพื่อเริ่มถ่ายรูป
+div: 5. ขึ้นหน้ายืนยันตัวตนสำเร็จ
+div: 6. ตั้งรหัส PIN
+div: 7. ยืนยันรหัส PIN
+div: 8. กดเข้าสู่ระบบ
+div: 9. ใส่ PIN ที่ตั้งเสร็จ
+div: 10. เข้าสู่หน้า Home ของ Application
+
+Links:
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin---by-email/01_click-forgot-pin.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin---by-email/02_list-of-device.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin---by-email/03_mobile_otp.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin---by-email/04_authendicate_email_otp_facial.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin---by-email/05_email_otp.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin---by-email/06_set-new-pin.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin---by-email/07_confirm-new-pin.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin---by-email/08_new-pin-success.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin---by-email/09_done-pin.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin---by-email/10_home_premium.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin-by-face-id/01_face.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin-by-face-id/02_consent.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin-by-face-id/03_enable.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin-by-face-id/04_scan_face.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin-by-face-id/05_autenticated-with-selfie-success.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin-by-face-id/06_set-new-pin.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin-by-face-id/07_confirm-new-pin.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin-by-face-id/08_new-pin-success.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin-by-face-id/09_done-pin.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin-by-face-id/10_home_premium.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin---by-email/01_click-forgot-pin.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin-by-face-id/forgotpin_cid_freemium.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin---by-email/02_list-of-device.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin---by-email/03_mobile_otp.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin---by-email/04_authendicate_email_otp_facial.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin---by-email/05_email_otp.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin---by-email/06_set-new-pin.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin---by-email/07_confirm-new-pin.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin---by-email/08_new-pin-success.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin---by-email/09_done-pin.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin---by-email/10_home_premium.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin-by-face-id/01_face.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin-by-face-id/02_consent.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin-by-face-id/03_enable.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin-by-face-id/04_scan_face.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin-by-face-id/05_autenticated-with-selfie-success.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin-by-face-id/06_set-new-pin.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin-by-face-id/07_confirm-new-pin.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin-by-face-id/08_new-pin-success.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin-by-face-id/09_done-pin.png
+https://www.innovestx.co.th/images/default-source/manual-invx/forgot-pin-by-face-id/10_home_premium.png

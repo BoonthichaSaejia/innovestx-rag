@@ -1,0 +1,46 @@
+Text Content:
+h1: ซื้อขายหุ้นไทยผ่าน Streaming Application
+div: ○
+h3: ขั้นตอนการทำงานจากทางเข้า Statement T-1
+h2: คลิกเพื่อไปดู statement T-1 คลิกเพื่อไปซื้อขายหุ้นไทยผ่าน Streaming application แสดงหน้าจอ market summary ของ Streaming application
+div: คลิกเพื่อไปดู statement T-1
+div: คลิกเพื่อไปซื้อขายหุ้นไทยผ่าน Streaming application
+div: แสดงหน้าจอ market summary ของ Streaming application
+div: ○
+h3: ขั้นตอนการทำงานจากทางเข้า Statement T-1 (โดยมีหลาย profile บน Streaming Application)
+h2: คลิกเพื่อไป statement T-1 คลิกเพื่อไปซื้อขายหุ้นไทยผ่าน Streaming application เลือกบัญชีที่ต้องการ Login Streaming แสดงหน้าจอ market summary ของ Streaming application ดัวยปบัญชีที่เลือก ○ ขั้นตอนการทำงานจากทางเข้าเมนู Invest
+div: คลิกเพื่อไป statement T-1
+div: คลิกเพื่อไปซื้อขายหุ้นไทยผ่าน Streaming application
+div: เลือกบัญชีที่ต้องการ Login Streaming
+div: แสดงหน้าจอ market summary ของ Streaming application ดัวยปบัญชีที่เลือก
+div: ○
+h3: ขั้นตอนการทำงานจากทางเข้าเมนู Invest
+h2: คลิกเพื่อไป Invest และเลือก หุ้น เลือกหุ้นไทยและคลิกเพื่อไปซื้อขายหุ้นไทยผ่าน Streaming application แสดงหน้าจอ market summary ของ Streaming application
+div: คลิกเพื่อไป Invest และเลือก หุ้น
+div: เลือกหุ้นไทยและคลิกเพื่อไปซื้อขายหุ้นไทยผ่าน Streaming application
+div: แสดงหน้าจอ market summary ของ Streaming application
+div: ○
+h3: ขั้นตอนการทำงานจากทางเข้าเมนู Invest (โดยมีหลาย profile บน Streaming Application)
+h2: คลิกเพื่อไป Invest และเลือก หุ้น เลือกหุ้นไทยและคลิกเพื่อไปซื้อขายหุ้นไทยผ่าน Streaming application เลือกบัญชีที่ต้องการ Login Streaming แสดงหน้าจอ market summary ของ Streaming application ดัวยบัญชีที่เลือก
+div: คลิกเพื่อไป Invest และเลือก หุ้น
+div: เลือกหุ้นไทยและคลิกเพื่อไปซื้อขายหุ้นไทยผ่าน Streaming application
+div: เลือกบัญชีที่ต้องการ Login Streaming
+div: แสดงหน้าจอ market summary ของ Streaming application ดัวยบัญชีที่เลือก
+
+Links:
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual_streaming-application/04_profilelogin.png
+https://www.innovestx.co.th/images/default-source/manual_streaming-application/remark01.png
+https://www.innovestx.co.th/images/default-source/manual_streaming-application/14.streaming-copy-3.png
+https://www.innovestx.co.th/images/default-source/manual_streaming-application/04_profilelogin.png
+https://www.innovestx.co.th/images/default-source/manual_streaming-application/remark01.png
+https://www.innovestx.co.th/images/default-source/manual_streaming-application/13.account_steaming-copy.png
+https://www.innovestx.co.th/images/default-source/manual_streaming-application/14.streaming-copy-3.png
+https://www.innovestx.co.th/images/default-source/manual_streaming-application/11.invest_select_stock.png
+https://www.innovestx.co.th/images/default-source/manual_streaming-application/12.entry_point_2_needrevise.png
+https://www.innovestx.co.th/images/default-source/manual_streaming-application/14.streaming-copy-3.png
+https://www.innovestx.co.th/images/default-source/manual_streaming-application/11.invest_select_stock.png
+https://www.innovestx.co.th/images/default-source/manual_streaming-application/12.entry_point_2_needrevise.png
+https://www.innovestx.co.th/images/default-source/manual_streaming-application/06.account_steaming.png
+https://www.innovestx.co.th/images/default-source/manual_streaming-application/10.streaming-copy-2.png

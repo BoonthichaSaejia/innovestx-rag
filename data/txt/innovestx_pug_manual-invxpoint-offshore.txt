@@ -1,0 +1,18 @@
+Text Content:
+h1: วิธีการใช้คะแนน INVX Point เป็นส่วนลดเงินคืน - สำหรับการซื้อหุ้นต่างประเทศ
+div: เลือกหุ้นต่างประเทศที่ต้องการแล้วกด “ซื้อ”
+div: เลือกวิธีส่งคำสั่งซื้อที่ต้องการ และกรอกจำนวนเงิน (Amount) หรือหุ้นที่ต้องการซื้อ (Shares)
+div: กดเลื่อนเพื่อเปิดการใช้คะแนนแลกเป็น Cash Back หลังจากนั้นกด “ส่งคำสั่งซื้อ”
+div: ตรวจสอบข้อมูลและกด “ยืนยันรายการสั่งซื้อ”
+div: กรอก PIN เพื่อยืนยันการทำรายการ
+div: หน้าจอยืนยันการทำรายการ ใบเสร็จการทำรายการจะบันทึกลงอัลบั้มรูปภาพให้อัตโนมัติ
+
+Links:
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-invxpoint/05.offshore-stock-chart-.png
+https://www.innovestx.co.th/images/default-source/manual-invxpoint/06.amount_andshare.png
+https://www.innovestx.co.th/images/default-source/manual-invxpoint/07.redeem_point.png
+https://www.innovestx.co.th/images/default-source/manual-invxpoint/08.confirm_order.png
+https://www.innovestx.co.th/images/default-source/manual-invxpoint/09.enter_pin.png
+https://www.innovestx.co.th/images/default-source/manual-invxpoint/10.slip_transaction.png

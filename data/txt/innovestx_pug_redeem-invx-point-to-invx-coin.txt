@@ -1,0 +1,29 @@
+Text Content:
+div: 01
+h3: วิธีแลกคะแนน INVX Point เป็น INVX Coin
+div: 1. กดเมนู “Profile”
+div: 2. กดเมนู “คะแนน INVX Point” สามารถกดได้ทั้ง 2 จุด
+div: 3. ระบบจะแสดงหน้ารายละเอียด คะแนน INVX Point
+div: 4. กดปุ่มไอคอน “แลก INVX Coin”
+div: 5. กรอกหรือเลือกจำนวนที่ต้องการแลก แล้วกด “แลกคะแนน” *หมายเหตุ กรุณาดูอัตราการแลกคะแนนเป็น INVX Coin และเงื่อนไขเพิ่มเติม
+div: 6. สามารถกด “สูงสุด” เพื่อเลือกใช้คะแนนทั้งหมดในการแลกเป็น INVX Coin ได้
+div: 7. สามารถกดเลือกจำนวนคะแนน หรือจำนวน INVX coin ที่ต้องการแลกได้
+div: 8. หลังจากกดแลกคะแนนแล้ว อ่านเงื่อนไขและกด “ตกลง” เพื่อยอมรับเงื่อนไขและดำเนินการต่อ
+div: 9. กด “ยืนยัน” เพื่อดำเนินการต่อ หรือกด “ยกเลิก” เพื่อกลับไปหน้าแลกคะแนน
+div: 10. แลก INVX Coin สำเร็จ สำหรับลูกค้าที่มี Wallet หรือสมัคร wallet สำเร็จแล้ว สามารถกด “ดู INVX coin wallet” เพื่อดู ประวัติการใช้และ INVX coin ที่ได้รับ
+div: 11. สำหรับลูกค้าที่ยังไม่มี Wallet หลังจากกด “ยืนยัน” ในการแลกคะแนน ลูกค้าจะต้องกดปุ่ม “เปิดใช้งาน” ระบบจะทำการเปิด InnovestX Wallet ให้อัตโนมัติ
+
+Links:
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-coins/01.exiting-user.png
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-coins/02.profile-default.png
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-coins/03.pointhome.png
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-coins/04.pointhome.png
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-coins/05.coinexchange-entered.png
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-coins/06.coinexchange-active.png
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-coins/07.coinexchange-active.png
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-coins/08.point-to-invest.png
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-coins/09.coinexchange-entered-confirmation.png
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-coins/10.confirmationpage-pointtocoin.png
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-coins/11.pointhome-coinexchange-servicedown.png

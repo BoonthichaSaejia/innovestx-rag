@@ -1,0 +1,33 @@
+Text Content:
+div: 01
+h3: วิธีแลกคะแนน INVX Point เป็นรีวอร์ด
+div: 1. กดเมนู “Profile”
+div: 2. กดเมนู “คะแนน INVX Point” สามารถกดได้ทั้ง 2 จุด
+div: 3. ระบบจะแสดงหน้ารายละเอียด คะแนน INVX Point
+div: 4. เลือกรีวอร์ดที่ต้องการใช้
+div: 5. อ่านรายละเอียดและเงื่อนไขการใช้งาน และกด “แลกคะแนน”
+div: 6. กด “ยืนยัน” เพื่อยืนยันการแลกคะแนน หรือกด “ยกเลิก” หากไม่ต้องการแลกคะแนนแล้ว
+div: 7. แลกคะแนนสำเร็จ
+div: 8. กด “ใช้เลยตอนนี้” หรือเลือก “ใช้ภายหลัง”
+div: 9. หากลูกค้ากด “ใช้เลยตอนนี้” สามารถนำ E-Coupon ที่มีรูปแบบเป็น QR Code, Barcode, หรือ Code ไปใช้งานได้เลย
+div: 10. เมื่อกดเข้าไปที่หน้ารีวอร์ดของฉัน เลือกแถบ “รีวอร์ดที่ถูกเปิดใช้งานแล้ว” จะสามารถกดดู E-Coupon ย้อนหลังได้จนกว่าจะหมดอายุ *หมายเหตุ E-Coupon สีเทา หมายถึง รีวอร์ดที่หมดอายุแล้ว
+div: 11. หากลูกค้ากด “ใช้ภายหลัง” E-Coupon จะถูกเก็บไว้ที่ “รีวอร์ดของฉัน” ลูกค้าสามารถกดใช้ภายหลังเมื่อต้องการได้เลย
+div: 12. กดไอคอน “รีวอร์ดของฉัน” เพื่อดูรีวอร์ดที่เคยแลกไว้
+div: 13. กดไอคอน “ประวัติคะแนน” เพื่อดูประวัติการได้รับคะแนนและการแลกคะแนน
+
+Links:
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-rewards/01.exiting-user.png
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-rewards/02.profile-default.png
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-rewards/03.pointhome.png
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-rewards/04.pointhome.png
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-rewards/05.favorite-4.png
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-rewards/06.favorite-5.png
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-rewards/07.favorite-(2).png
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-rewards/08.favorite.png
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-rewards/09.favorite-1.png
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-rewards/10.myrewards-activated-(2).png
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-rewards/11.myrewards-normal.png
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-rewards/12.pointhome.png
+https://www.innovestx.co.th/images/default-source/manual-invx/point-to-rewards/13.pointhome.png

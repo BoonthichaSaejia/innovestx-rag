@@ -1,0 +1,18 @@
+Text Content:
+h1: วิธียกเลิกการทำรายการสินทรัพย์ดิจิทัล
+div: 01
+h3: วิธียกเลิกการทำรายการ
+div: 1. เลือก "สินทรัพย์ดิจิทัล"
+div: 2. เลือก "รายการคำสั่ง"
+div: 3. เลือกรายการที่ต้องการยกเลิกโดยกดที่ "ยกเลิกรายการ"ด้านขวามือ
+div: 4. ตรวจสอบข้อมูลและเลือก "ยืนยัน"
+div: 5. เมื่อกด "ยืนยัน" ระบบจะโชว์ข้อความยกเลิกรายการเรียบร้อยแล้ว
+
+Links:
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-da/ว-ธ-ยกเล-กการทำรายการ/manual_ep5_cancel_list-01.png
+https://www.innovestx.co.th/images/default-source/manual-da/ว-ธ-ยกเล-กการทำรายการ/manual_ep5_cancel_list-02.png
+https://www.innovestx.co.th/images/default-source/manual-da/ว-ธ-ยกเล-กการทำรายการ/manual_ep5_cancel_list-03.png
+https://www.innovestx.co.th/images/default-source/manual-da/ว-ธ-ยกเล-กการทำรายการ/manual_ep5_cancel_list-04.png
+https://www.innovestx.co.th/images/default-source/manual-da/ว-ธ-ยกเล-กการทำรายการ/manual_ep5_cancel_list-05.png

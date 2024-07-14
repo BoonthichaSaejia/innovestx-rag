@@ -1,0 +1,32 @@
+Text Content:
+h1: ไม่พลาดทุกโอกาสมั่งคั่ง 
+อย่าลืมเปิดการแจ้งเตือนตาม 2 ขั้นตอนนี้
+h1: ขั้นตอนที่ 1 เปิดการแจ้งเตือนในแต่ละระบบปฏิบัติการมือถือ
+span: ขั้นตอนที่ 1 เปิดการแจ้งเตือนในแต่ละระบบปฏิบัติการมือถือ
+h3: สำหรับระบบปฏิบัติการ iOS
+span: สำหรับระบบปฏิบัติการ iOS
+span: 1. ไปยังการตั้งค่า  >> การแจ้งเตือน
+span: 2. เลือกแถบแอป InnovestX >> แตะอนุญาตการแจ้งเตือน
+span: 3. เลือกตัวเลือกทั้งสาม (หน้าจอล็อก ศูนย์การแจ้งเตือน และป้ายประกาศ)
+h3: สำหรับระบบปฏิบัติการ Android
+span: สำหรับระบบปฏิบัติการ Android
+span: 1. เปิดแอปการตั้งค่าในโทรศัพท์
+span: 2. แตะการแจ้งเตือน >> การตั้งค่าแอป
+span: 3. เลือกแอป InnovestX เพื่อเปิดส่งการแจ้งเตือน หากหาแอป InnovestX ไม่เจอให้แตะ “แอปทั้งหมด” ในเมนูแบบเลื่อนลง แตะที่แอป InnovestX แล้วแตะเปิดการแจ้งเตือนของแอป
+h3: สำหรับระบบปฏิบัติการ HUAWEI
+span: สำหรับระบบปฏิบัติการ HUAWEI
+span: 1. ไปยังการตั้งค่า  >> เลือกแอป & การแจ้งเตือน
+span: 2. เลือก Notifications Management >> เลือกแอป InnovestX
+span: 3. เปิดใช้งาน Allow notifications
+h1: ขั้นตอนที่ 2 เปิดการแจ้งเตือนบนแอปพลิเคชัน InnovestX
+span: ขั้นตอนที่ 2 เปิดการแจ้งเตือนบนแอปพลิเคชัน InnovestX
+span: 1.  ล็อกอินแอป InnovestX
+span: 2. ไปยังหน้าเมนู Profile >> แตะ การตั้งค่า >> แตะ จัดการการแจ้งเตือน
+span: 3. เปิด Push Notification ทั้งหมด
+
+Links:
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-notification/ios.png
+https://www.innovestx.co.th/images/default-source/manual-notification/android.png
+https://www.innovestx.co.th/images/default-source/aboutboard/huawei.png

@@ -1,0 +1,52 @@
+Text Content:
+h1: การซื้อตราสารหนี้
+div: 01
+h3: เลือกตราสารหนี้ที่สนใจแล้วกด BUY
+div: เลือกตราสารหนี้ที่สนใจจากเมนู “INVEST” หรือค้นหาตราสารหนี้ จากปุ่มแว่นขยายบริเวณมุมขวาบน
+div: ดูรายละเอียดตราสารหนี้ที่ สนใจ และศึกษาเพิ่มเติมจาก หนังสือชี้ชวน จากนั้นกด “Buy”
+div: ระบุมูลค่า หรือ จํานวนหน่วย ที่ต้องการซื้อ จากนั้นกด “Buy”
+div: 02
+h3: ยืนยันรหัส PIN เพื่อยืนยันคําสั่งซื้อ
+div: กดรหัส PIN เพื่อยืนยัน
+div: ส่งคําสั่งซื้อเข้าระบบสําเร็จ และตรวจสอบสถานะกด “View Activity”
+div: สถานะคําสั่งซื้อ รอการอนุมัติ
+h1: การขายตราสารหนี้
+div: 01
+h3: เลือกตราสารหนี้ที่ต้องการขายแล้วกด “SELL”
+div: เลือกเมนู “PORTFOLIO” เลือกที่ Bonds
+div: เลือกขายตราสารหนี้ที่ต้องการ
+div: ดูรายละเอียดตราสารหนี้ จํานวนหน่วยที่มีและมูลค่า ผลตอบแทนปัจจุบัน จากนั้น กด “Sell”
+div: 02
+h3: ยืนยันรหัส PIN เพื่อทำการขาย
+div: ระบุมูลค่าหรือจํานวนหน่วย ที่ต้องการขาย จากนั้นกด "Sell"
+div: กดรหัส PIN เพื่อยืนยัน
+div: ส่งคําสั่งขายเข้าระบบสําเร็จ และตรวจสอบสถานะกด “ดูประวัติการทำรายการ”
+div: 03
+h3: ตรวจสอบสถานะหลังการขาย
+div: สถานะคําสั่งขาย รอการอนุมัติ
+div: 04
+h3: เลือกเมนู “ACTIVITY” เพื่อตรวจสอบสถานะคําสั่ง
+div: เลือก Activity แล้วกดคำว่า “ตราสารหนี้”
+
+Links:
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/onboarding-manual
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/fund-filter
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/Notification-Tools
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/Real-time
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/structured-note
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-bond/01.invest_recommended.png
+https://www.innovestx.co.th/images/default-source/manual-bond/02.offshore-stock-chart-.png
+https://www.innovestx.co.th/images/default-source/manual-bond/03.offshore-stock-chart--3.png
+https://www.innovestx.co.th/images/default-source/manual-bond/04.pin_default_filling.png
+https://www.innovestx.co.th/images/default-source/manual-bond/05.offshore-stock-ckeck--1.png
+https://www.innovestx.co.th/images/default-source/manual-bond/06.main-portfolio_2.png
+https://www.innovestx.co.th/images/default-source/manual-bond/07.portfolio_bond.png
+https://www.innovestx.co.th/images/default-source/manual-bond/08.buy_bond.png
+https://www.innovestx.co.th/images/default-source/manual-bond/09.offshore-stock-chart--4.png
+https://www.innovestx.co.th/images/default-source/manual-bond/10.offshore-stock-chart--6.png
+https://www.innovestx.co.th/images/default-source/manual-bond/11.pin_default_filling.png
+https://www.innovestx.co.th/images/default-source/manual-bond/12.offshore-stock-ckeck--1.png
+https://www.innovestx.co.th/images/default-source/manual-bond/13.main-portfolio_2.png
+https://www.innovestx.co.th/images/default-source/manual-bond/14.click_bond.png

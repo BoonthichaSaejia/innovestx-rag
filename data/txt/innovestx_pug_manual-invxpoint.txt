@@ -1,0 +1,14 @@
+Text Content:
+h1: วิธีการเช็กคะแนน INVX Point บนแอปพลิเคชัน InnovestX
+div: กด “เข้าสู่ระบบ” และเลือกเมนู “Profile”
+div: ระบบจะแสดงคะแนน INVX Point ของท่าน โดยสามารถกดเมนู “INVX Point” เพื่อดูรายละเอียดเพิ่มเติม
+div: ดูประวัติการใช้คะแนน หรือกดไอคอนฟิลเตอร์ เพื่อเลือกดูคะแนนที่สนใจ
+div: เลือกดูประวัติคะแนน INVX Point ตามประเภทที่สนใจ
+
+Links:
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-invxpoint/01.register.png
+https://www.innovestx.co.th/images/default-source/manual-invxpoint/02profilelogin.png
+https://www.innovestx.co.th/images/default-source/manual-invxpoint/03.filter.png
+https://www.innovestx.co.th/images/default-source/manual-invxpoint/04.tax_sum_allowance24.png

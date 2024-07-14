@@ -1,0 +1,28 @@
+Text Content:
+h1: วิธีการโอนเหรียญสินทรัพย์ดิจิทัล
+div: 01
+h3: วิธีการโอนเหรียญ
+div: 1. เลือก "สินทรัพย์ดิจิทัล"
+div: 2. เลือก "กระเป๋า"
+div: 3. เลือก "โอนเหรียญ"
+div: 4. ค้นหาเหรียญที่ต้องการจะโอน
+div: 5. เมื่อเข้ามาที่หน้าการโอนเหรียญที่เลือกแล้ว ให้ระบุข้อมูลของผู้รับเหรียญ
+span: 1 ระบุที่อยู่กระเป๋าผู้รับ (Address หรือเลือกสแกนแบบQR Code ที่กระเป๋าปลายทาง 2 เลือกเครือข่ายที่ต้องการโอนเหรียญ 3 ระบุจำนวนเหรียญที่ต้องการถอน หรือ กดสูงสุด โดยระบบจะใส่จำนวนเหรียญทั้งหมดที่สามารถโอนได้เมื่อระบุเรียบร้อยแล้ว เลือก "ตรวจสอบข้อมูลคำสั่งโอน "
+div: เมื่อระบุเรียบร้อยแล้ว เลือก “ตรวจสอบข้อมูลคำสั่งโอน”
+div: 6. ตรวจสอบข้อมูลที่ต้องการโอนแล้วกด “ยืนยัน”
+div: 7. ทำการยืนยันตัวตน2-Factor Authentication (2FA) ผ่าน Google Authenticatorและใส่รหัส PIN
+div: 8. ได้รับคำสั่งการโอนเหรียญ
+div: 9. การโอนเหรียญสำเร็จ
+
+Links:
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-da/ว-ธ-โอนเหร-ยญ/manual_ep6_tranfer_crypto-01.png
+https://www.innovestx.co.th/images/default-source/manual-da/ว-ธ-โอนเหร-ยญ/manual_ep6_tranfer_crypto-02.png
+https://www.innovestx.co.th/images/default-source/manual-da/ว-ธ-โอนเหร-ยญ/manual_ep6_tranfer_crypto-03.png
+https://www.innovestx.co.th/images/default-source/manual-da/ว-ธ-โอนเหร-ยญ/manual_ep6_tranfer_crypto-04.png
+https://www.innovestx.co.th/images/default-source/manual-da/ว-ธ-โอนเหร-ยญ/manual_ep6_tranfer_crypto-05.png
+https://www.innovestx.co.th/images/default-source/manual-da/ว-ธ-โอนเหร-ยญ/manual_ep6_tranfer_crypto-06.png
+https://www.innovestx.co.th/images/default-source/manual-da/ว-ธ-โอนเหร-ยญ/manual_ep6_tranfer_crypto-07.png
+https://www.innovestx.co.th/images/default-source/manual-da/ว-ธ-โอนเหร-ยญ/manual_ep6_tranfer_crypto-08.png
+https://www.innovestx.co.th/images/default-source/manual-da/ว-ธ-โอนเหร-ยญ/manual_ep6_tranfer_crypto-09.png

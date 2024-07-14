@@ -1,0 +1,34 @@
+Text Content:
+h1: คู่มือโครงการชวนเพื่อนเปิดบัญชีลงทุนกับ InnovestX
+div: 01
+h3: ขั้นตอนสำหรับผู้แนะนำ
+div: 1. ไปที่หน้า Home จากนั้นไปที่เมนูลัด คลิกปุ่ม “แนะนำเพื่อน”
+div: 2. กดปุ่มแชร์ หรือคัดลอก ลิงก์เปิดบัญชี เพื่อส่งต่อให้เพื่อนของคุณ
+div: หรือ กดบันทึกรูปภาพที่ประกอบไปด้วย QR ดาวน์โหลดแอปและโค้ดเปิดบัญชีของคุณ เพื่อส่งให้เพื่อน
+div: 02
+h3: ขั้นตอนสำหรับเพื่อนใหม่ เพื่อเปิดบัญชีลงทุน
+div: 1. เปิดแอปพลิเคชัน InnovestX และกดปุ่ม “เริ่มต้นลงทะเบียน” สำหรับผู้ใช้งานใหม่
+div: 2. กรอกข้อมูลเลขบัตรประชาชน
+div: 3. กรอกหมายเลขโทรศัพท์มือถือ
+div: 4.สร้าง PIN 6 หลัก
+div: 5. เลือกผูกบัญชีธนาคารที่ต้องการตัดเงิน
+div: 6. ทำแบบประเมินความเสี่ยง
+div: 7. กรอกโค้ดแนะนำของเพื่อนคุณ หรือ ตรวจสอบ โค้ดที่ขึ้นในช่องรหัสแนะนำ ให้ตรงกันกับโค้ดของผู้แนะนำเปิดบัญชี
+div: 8. ตั้งรหัสผ่านตามเงื่อนไขที่กำหนดไว้
+div: 9. กดเริ่มต้นลงทุน เพื่อยืนยันการเปิดบัญชีสำเร็จ และเข้าสู่แอปพลิเคชัน
+
+Links:
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-invx/invx-referral-campaign/1.-refer-button.png
+https://www.innovestx.co.th/images/default-source/manual-invx/invx-referral-campaign/2.-share.png
+https://www.innovestx.co.th/images/default-source/manual-invx/invx-referral-campaign/3.-code_qr.png
+https://www.innovestx.co.th/images/default-source/manual-invx/invx-referral-campaign/1.-start.png
+https://www.innovestx.co.th/images/default-source/manual-invx/invx-referral-campaign/2_cid-check_onboarding_start.png
+https://www.innovestx.co.th/images/default-source/manual-invx/invx-referral-campaign/3_enter-mobile-number.png
+https://www.innovestx.co.th/images/default-source/manual-invx/invx-referral-campaign/8_set-up-pin.png
+https://www.innovestx.co.th/images/default-source/manual-invx/invx-referral-campaign/4_ats-scb_active.png
+https://www.innovestx.co.th/images/default-source/manual-invx/invx-referral-campaign/5_-suit-test.png
+https://www.innovestx.co.th/images/default-source/manual-invx/invx-referral-campaign/6_referal-code.png
+https://www.innovestx.co.th/images/default-source/manual-invx/invx-referral-campaign/7_set-up-password.png
+https://www.innovestx.co.th/images/default-source/manual-invx/invx-referral-campaign/9_successful.png

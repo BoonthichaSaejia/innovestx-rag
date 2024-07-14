@@ -1,0 +1,50 @@
+Text Content:
+h1: การถอนเงินบาทจะมีอยู่ 2 ประเภทดังนี้
+span: 1. ถอนเงินจากบัญชีสินทรัพย์ดิจิทัล ไปยังบัญชีบริหารเงินสด 2. ถอนเงินจากบัญชีบริหารเงินสด ไปยังบัญชีธนาคารไทยพาณิชย์ของลูกค้า
+div: 01
+h3: ถอนเงินจากบัญชีสินทรัพย์ดิจิทัล ไปยังบัญชีบริหารเงินสด
+div: 1. เลือก "สินทรัพย์ดิจิทัล"
+div: 2. เลือก "กระเป๋า"
+div: 3. เลือก "บัญชีสินทรัพย์ดิจิทัล"
+div: 4. เลือก "ถอนเงิน"
+div: 5. เลือกบัญชี
+div: 6. เลือกบัญชีบริหารเงินสด
+div: 7. ระบุจำนวนเงินที่ต้องการถอนไปยังบัญชีบริหารเงินสดโดยมีขั้นต่ำอยู่ที่ 2,000 บาท
+div: 8. ตรวจสอบข้อมูลและเลือก "ยืนยัน"
+div: 9. ใส่รหัส PIN
+div: 10. ได้รับรายการส่งคำสั่งสำเร็จ
+div: 02
+h3: การถอนเงินจากบัญชีบริหารเงินสด ไปยังบัญชีธนาคารไทยพาณิชย์ของลูกค้า
+div: 1. เลือก "บัญชีบริหารเงินสด"
+div: 2. เลือก "ถอนเงิน"
+div: 3. เลือกบัญชี
+div: 4. เลือกบัญชีที่ต้องการถอนเงิน
+div: 5. เลือกวิธีชำระเงินและระบุจำนวนเงินที่ต้องการถอน
+span: การเลือกวิธีการถอนเงินมี 2 วิธีดังนี้
+span: 1. ถอนฟรี โดยเงินจะเข้าบัญชีของลูกค้าภายในเวลา 3 ชั่วโมงหลังจากทำรายการ 2. ถอนทันที โดยมีค่าธรรมเนียม 20 บาทต่อรายการ ขั้นต่ำในการถอนเงิน 2,000 บาท
+span: หมายเหตุ: ㆍรายการถอนเงิน ระหว่างเวลา 06.00 น. - 19.30 น.จะเข้าบัญชีเงินฝากภายในเวลา 3 ชั่วโมง หลังจากลูกค้าทำรายงานถอนเงิน ㆍรายการถอนเงินหลัง 19.30 น. จะเข้าบัญชีเงินฝากภายใน 11.00 น. ของวันถัดไป
+div: 6. ตรวจสอบข้อมูล และเลือก "ยืนยัน "
+div: 7. ใส่รหัส PIN
+div: 8. การส่งคำสั่งถอนเงินสำเร็จ
+
+Links:
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-da/02-การถอนเง-นบาท/manual_ep2_withdraw-01.png
+https://www.innovestx.co.th/images/default-source/manual-da/02-การถอนเง-นบาท/manual_ep2_withdraw-02.png
+https://www.innovestx.co.th/images/default-source/manual-da/02-การถอนเง-นบาท/manual_ep2_withdraw-03.png
+https://www.innovestx.co.th/images/default-source/manual-da/02-การถอนเง-นบาท/manual_ep2_withdraw-04.png
+https://www.innovestx.co.th/images/default-source/manual-da/02-การถอนเง-นบาท/manual_ep2_withdraw-05.png
+https://www.innovestx.co.th/images/default-source/manual-da/02-การถอนเง-นบาท/manual_ep2_withdraw-06.png
+https://www.innovestx.co.th/images/default-source/manual-da/02-การถอนเง-นบาท/manual_ep2_withdraw-07.png
+https://www.innovestx.co.th/images/default-source/manual-da/02-การถอนเง-นบาท/manual_ep2_withdraw-08.png
+https://www.innovestx.co.th/images/default-source/manual-da/02-การถอนเง-นบาท/manual_ep2_withdraw-09.png
+https://www.innovestx.co.th/images/default-source/manual-da/02-การถอนเง-นบาท/manual_ep2_withdraw-10.png
+https://www.innovestx.co.th/images/default-source/manual-da/02-การถอนเง-นบาท/manual_ep2_withdraw-11.png
+https://www.innovestx.co.th/images/default-source/manual-da/02-การถอนเง-นบาท/manual_ep2_withdraw-12.png
+https://www.innovestx.co.th/images/default-source/manual-da/02-การถอนเง-นบาท/manual_ep2_withdraw-13.png
+https://www.innovestx.co.th/images/default-source/manual-da/02-การถอนเง-นบาท/manual_ep2_withdraw-14.png
+https://www.innovestx.co.th/images/default-source/manual-da/02-การถอนเง-นบาท/manual_ep2_withdraw-15.png
+https://www.innovestx.co.th/images/default-source/manual-da/02-การถอนเง-นบาท/manual_ep2_withdraw-16.png
+https://www.innovestx.co.th/images/default-source/manual-da/02-การถอนเง-นบาท/manual_ep2_withdraw-17.png
+https://www.innovestx.co.th/images/default-source/manual-da/02-การถอนเง-นบาท/manual_ep2_withdraw-18.png
