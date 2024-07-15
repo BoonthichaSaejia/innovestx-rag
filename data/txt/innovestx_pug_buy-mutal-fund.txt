@@ -1,0 +1,57 @@
+Text Content:
+h1: วิธีการซื้อกองทุนรวม
+div: 01
+h3: เลือกกองทุนรวมที่สนใจจากเมนู “INVEST” หรือค้นหากองทุนรวม จากปุ่มแว่นขยายบริเวณมุมขวา
+div: 02
+h3: ศึกษารายละเอียดกองทุน รวมที่สนใจ แล้วกดปุ่ม “ซื้อ”
+h1: ซื้อครั้งเดียว
+div: 03
+h3: ระบุจำนวนเงินที่ต้องการซื้อกองทุนรวม แล้วกด “ตรวจสอบข้อมูล”
+div: 04
+h3: ศึกษารายละเอียดจากหนังสือ
+ชี้ชวนส่วนสรุปข้อมูลสำคัญ
+แล้วกด “ถัดไป”
+div: 05
+h3: กด ยืนยัน หน้าตรวจสอบข้อมูล
+div: 06
+h3: กรอกรหัส PIN เพื่อยืนยันการส่งคำสั่งซื้อ
+div: 07
+h3: ส่งคำสั่งซื้อเข้าระบบสำเร็จ
+h1: ซื้อ DCA
+div: 03
+h3: ระบุวันที่ที่ตัดเงินทุกเดือนและ จำนวนเงินที่ต้องการซื้อกองทุนรวม แล้วกด “ตรวจสอบข้อมูล”
+div: 04
+h3: ศึกษารายละเอียดจากหนังสือชี้ชวนส่วนสรุปข้อมูลสำคัญแล้วกด “ถัดไป”
+div: 05
+h3: กด ยืนยัน หน้าตรวจสอบข้อมูล
+div: 06
+h3: กรอกรหัส PIN เพื่อยืนยันการส่งคำสั่งซื้อ
+div: 07
+h3: ส่งคำสั่งซื้อเข้าระบบสำเร็จ
+
+Links:
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/mutual-fund-cancellation
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/check-mutual-fund-status
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/switch-mutual-funds
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/sale-unit-trusts
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/01.invest-screen.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/02.switch_fund.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/03.fund-detail-tab2.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/04.fund-detail-tab3.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/05.buy-1-time.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/06.buy_activenextday-popup.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/07.buy_waring-popup.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/08.buy_fact-sheet.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/09.buy_preconfirm_1time.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/10.buy_pin.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/11.buy_post-confirm_1time.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/12.buy-1-time.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/13.buy-dca_select-date.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/14.buy_activenextday-popup.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/15.buy_waring-popup.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/16.buy_fact-sheet.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/17.buy_preconfirm.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/18.buy_pin-copy.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/19.buy_post-confirm.png

@@ -1,0 +1,21 @@
+Text Content:
+h2: วิธีการเติมเงินบาท
+span: 1. เข้าเว็ปไซต์ trade.innovestxonline.com/digitalassets ทำการล็อกอิน และที่แถบเมนูข้างซ้าย คลิก “บัญชีสินทรัพย์ดิจิทัล”
+span: 2. เติมเงินบาท : ที่หน้าบัญชีสินทรัพย์ดิจิทัล คลิก “ฝาก”
+span: 3. คลิกที่ THB (Thai Baht)
+span: 4. เติมเงินบาท
+span: 4.1. เลือกชำระด้วย “บัญชีบริหารเงินสด”
+span: 4.2. ระบุจำนวนเงิน และเลือกตรวจสอบข้อมูล
+span: 5. ตรวจสอบข้อมูลและคลิก “ยืนยัน”
+span: 6. หลังจากคลิกยืนยันการเติมเงินบาท สามารถเช็คสถานะการเติมเงินบาทได้ที่เมนูรายการคำสั่ง แถบเงินสด หน้าประวัติการทำรายการ
+
+Links:
+https://trade.innovestxonline.com/digitalassets/
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-depositthb/002.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-depositthb/003.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-depositthb/004.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-depositthb/005.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-depositthb/006.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-depositthb/007.jpg

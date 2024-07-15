@@ -1,0 +1,21 @@
+Text Content:
+h2: วิธีการถอนเงินบาท
+span: 1. เข้าเว็ปไซต์ trade.innovestxonline.com/digitalassets ทำการล็อกอิน และที่แถบเมนูข้างซ้าย คลิก “บัญชีสินทรัพย์ดิจิทัล”
+span: 2. ที่หน้าบัญชีสินทรัพย์ดิจิทัล คลิก “ถอน”
+span: 3. คลิกที่ THB (Thai Baht)
+span: 4. ถอนเงินบาท
+span: 4.1. เลือกถอนไปยัง “บัญชีบริหารเงินสด”
+span: 4.2. ระบุจำนวนเงิน และเลือกตรวจสอบข้อมูล
+span: 5.ตรวจสอบข้อมูลและคลิก “ยืนยัน”
+span: 6. หลังจากคลิกยืนยันการถอนเงินบาท สามารถเช็คสถานการณ์ถอนเงินบาทได้ที่เมนูรายการคำสั่ง แถบเงินสด หน้าประวัติการทำรายการ
+
+Links:
+https://trade.innovestxonline.com/digitalassets/
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-withdraw-thb/002.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-withdraw-thb/003.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-withdraw-thb/004.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-withdraw-thb/005.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-withdraw-thb/006.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-withdraw-thb/007.jpg

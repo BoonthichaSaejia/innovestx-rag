@@ -1,0 +1,82 @@
+Text Content:
+h2: การแจ้งเตือน (Notification)
+div: ○
+h3: ดูการแจ้งเตือนใน application แบบ Premium (logged in user)
+div: 1.กดไอคอนการแจ้งเตือนหลังจาก Login แล้ว
+div: 2.กดข้อความของ notification
+div: 3.เปิดหน้ากองทุน
+div: ○
+h3: ดูการแจ้งเตือนใน application แบบ Freemium
+div: 1.กดไอคอนการแจ้งเตือน จากหน้า Freemium
+div: 2.Login เข้าสู่ระบบ
+div: 3.เปิดหน้าการแจ้งเตือน
+div: 4.เปิดหน้ากองทุน
+div: ○
+h3: ดูการแจ้งเตือนจาก Push notification
+div: 1.กด Push notification
+div: 2.เปิดหน้า Fund detail แบบ Freemium
+div: ○
+h3: หน้าการแจ้งเตือน
+div: หน้าการแจ้งเตือน
+h2: ขั้นตอนการตั้งค่าการแจ้งเตือน (Notification)
+div: ○
+h3: เปิดหน้าแสดงการตั้งค่า
+div: กดไอคอนการแจ้งเตือนจุดสามจุด
+div: แสดงหน้าตั้งค่า
+div: ○
+h3: การลบข้อความ
+div: เลือก ลบข้อความ
+div: เลือกข้อความที่ต้องการลบ แล้วกด ลบ
+div: ข้อความจะถูกลบออกไป
+div: ○
+h3: การตั้งค่าเป็นอ่านทั้งหมด
+div: เลือก ตั้งค่าเป็นอ่านทั้งหมด
+div: ทุกข้อความในแถบนั้นกลายเป็นถูกอ่านทั้งหมด
+div: ○
+h3: กรณีลบข้อความไม่สำเร็จ หรือ ตั้งค่าเป็นอ่านทั้งหมดไม่สำเร็จ
+div: ลบข้อความไม่สำเร็จ
+div: ตั้งค่าเป็นอ่านทั้งหมดไม่สำเร็จ
+div: ○
+h3: กรณีไม่มีข้อความในหน้าการแจ้งเตือน หรือระบบไม่สามารถเรียกข้อความ notification ได้
+div: กรณีไม่มีข้อความในหน้าการแจ้งเตือน (inbox page)
+div: กรณีระบบไม่สามารถเรียกข้อมูล notification ได้
+div: ○
+h3: การตั้งค่า เปิด/ปิด push notification
+div: 1. เลือกหน้า Profile
+div: 2. เลือกแถบการตั้งค่า
+div: 3. เลือกจัดการการแจ้งเตือนในหน้าการตั้งค่า
+div: 4. เลือกเปิดหรือปิด push notification
+
+Links:
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/onboarding-manual
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/fund-filter
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/Real-time
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/structured-note
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/buy-bond
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-notification/01.home_with_port.png
+https://www.innovestx.co.th/images/default-source/manual-notification/02.inbox.png
+https://www.innovestx.co.th/images/default-source/manual-notification/07.fund-detail-copy.png
+https://www.innovestx.co.th/images/default-source/manual-notification/04.home.png
+https://www.innovestx.co.th/images/default-source/manual-notification/05.login.png
+https://www.innovestx.co.th/images/default-source/manual-notification/15.inbox-copy-2.png
+https://www.innovestx.co.th/images/default-source/manual-notification/07.fund-detail-copy.png
+https://www.innovestx.co.th/images/default-source/manual-notification/08.push_notification.png
+https://www.innovestx.co.th/images/default-source/manual-notification/09.fund-freemium.png
+https://www.innovestx.co.th/images/default-source/manual-notification/10.inbox-copy-2.png
+https://www.innovestx.co.th/images/default-source/manual-notification/11.inbox-copy-3.png
+https://www.innovestx.co.th/images/default-source/manual-notification/12.setting-in-inbox.png
+https://www.innovestx.co.th/images/default-source/manual-notification/13.setting-in-inbox-copy.png
+https://www.innovestx.co.th/images/default-source/manual-notification/14.mark-delete.png
+https://www.innovestx.co.th/images/default-source/manual-notification/17.all_read.png
+https://www.innovestx.co.th/images/default-source/manual-notification/16.setting-in-inbox.png
+https://www.innovestx.co.th/images/default-source/manual-notification/17.all_read.png
+https://www.innovestx.co.th/images/default-source/manual-notification/18.delete-failed.png
+https://www.innovestx.co.th/images/default-source/manual-notification/19.error_pop_up.png
+https://www.innovestx.co.th/images/default-source/manual-notification/20.empty_notification.png
+https://www.innovestx.co.th/images/default-source/manual-notification/21.cannot-retrieve-data-in-inbox.png
+https://www.innovestx.co.th/images/default-source/manual-notification/22-profile_setting.png
+https://www.innovestx.co.th/images/default-source/manual-notification/23-profile_setting.png
+https://www.innovestx.co.th/images/default-source/manual-notification/24-setting_page.png
+https://www.innovestx.co.th/images/default-source/manual-notification/25.setting-open-push.png

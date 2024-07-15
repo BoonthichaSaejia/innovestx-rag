@@ -1,7 +1,109 @@
 Text Content:
-h1: วิธีการลงทะเบียนแอป InnovestX (Username และ Password InnovestX WebTrade) คลิก! เพื่ออ่านคู่มือ
+h1: Onboarding Manual
+div: 01
+h3: ดาวน์โหลดแอปพลิเคชัน InnovestX
+div: สแกน หรือ ดาวน์โหลดแอพพลิเคชันได้ที่นี่ คลิก
+div: 02
+h3: ลงทะเบียน กรอกข้อมูลเบื้องต้น และยืนยัน OTP
+div: กด “ลงทะเบียน”
+div: เตรียมพร้อมก่อนเปิดบัญชี และกด “เริ่มลงทะเบียนเลย!"
+div: กรอกเลขบัตรประชาชน และเบอร์โทรศัพท์มือถือ แล้วกด “เปิดบัญชีลงทุน”
+div: กด “ยินยอม” เกี่ยวกับข้อมูลส่วนบุคคลอ่อนไหว และ ข้อกำหนดและเงื่อนไขการใช้บริการ InnovestX
+div: กรอกข้อมูลบัตรประชาชนและกด “ถัดไป”
+div: กรอกรหัส OTP ที่ได้รับทาง SMS
+div: 03
+h3: ยืนยันตัวตน
+span: 3.1 ยืนยันตัวตนด้วยแอป SCB EASY
+div: กด “เปิดแอป SCB EASY”
+div: ใส่ PIN และ ยินยอมเงื่อนไขที่ SCB EASY กำหนด
+span: 3.2 ยืนยันตัวตนด้วย NDID
+div: เลือกธนาคาร และกด “ถัดไป” หากท่านมีบัญชีกับธนาคารที่กำหนด
+div: กด “ยอมรับ” เงื่อนไขและข้อตกลงเกี่ยวกับ NDID
+div: เลือกธนาคารผู้ให้บริการยืนยันตัวตน NDID และกด “ถัดไป”
+div: กดเข้าไปยังแอปธนาคารที่เลือก เพื่อทำการยืนยันตัวตน NDID
+div: เมื่อยืนยันตัวตนกับแอปธนาคารสำเร็จแล้ว ให้กลับมาที่แอป InnovestX และกด “ยืนยันตัวตนเรียบร้อยแล้ว”
+div: กด “ถัดไป”
+div: 04
+h3: สร้างรหัส PIN
+div: สร้างรหัส PIN
+div: ยืนยันรหัส PIN
+div: 05
+h3: กรอกข้อมูลเปิดบัญชีลงทุน
+div: กรอกข้อมูลเปิดบัญชีลงทุน และกด “ถัดไป”
+div: 06
+h3: เลือกบัญชี เพื่อผูกบริการหักบัญชีอัตโนมัติ (ATS)
+div: สำหรับลูกค้า SCB เลือกบัญชี ATS และกด “ถัดไป”
+div: สำหรับผู้ที่ไม่ใช่ลูกค้า SCB กดเลือกธนาคาร เพื่อเชื่อมต่อแอปหรือเว็บไซต์ของธนาคารนั้น
+div: เมื่อยืนยันเลขที่บัญชีกับธนาคารที่เลือกแล้ว ให้กลับมาที่แอป InnovestX และกด “ถัดไป”
+div: 07
+h3: ทำแบบประเมินความเสี่ยง และทำแบบประเมินความรู้
+div: กด Checkbox และเลือก “ยืนยัน” เพื่อยอมรับเงื่อนไขการเปิดบัญชีลงทุน
+div: เลือกความเสี่ยงเบื้องต้น
+div: ทำแบบประเมินความเสี่ยง
+div: ทำแบบประเมินความรู้สินทรัพย์ดิจิทัล
+div: กด “ถัดไป”
+div: กด “ถัดไป”
+div: 08
+h3: กรอกโค้ดเปิดบัญชี (ถ้ามี)
+div: กรอกโค้ดเปิดบัญชี รหัสผู้ดูแลบัญชี โค้ดชวนเพื่อน หรือโค้ดโปรโมชัน แล้วกด “ถัดไป”ถ้าไม่มี ให้เว้นไว้ แล้วกด “ถัดไป”
+div: 09
+h3: ตรวจสอบข้อมูล ยืนยันอีเมล และตั้งรหัสผ่าน
+div: ตรวจสอบข้อมูล และกด “ตกลง”
+div: กรอกรหัสยืนยันตัวตนที่ได้รับทางอีเมล และกด “ยืนยัน”
+div: ตั้งรหัสผ่านและกด “ถัดไป”
+div: สมัครเปิดบัญชีลงทุนสำเร็จพร้อม “เริ่มต้นลงทุน”
+h2: *สำหรับลูกค้าที่ยังไม่ได้ทำการยืนยันตัวตนขั้นสูง แบบประเมินความเสี่ยง หรือแบบประเมินความรู้สินทรัพย์ดิจิทัล
+div: สำหรับลูกค้าที่ทำการยืนยันตัวตนผ่าน NDID ในตอนต้น แต่ยังไม่ได้ทำแบบประเมินความเสี่ยง และแบบประเมินความรู้สินทรัพย์ดิจิทัล สามารถเลือก “เปิดบัญชีลงทุนสินทรัพย์ดิจิทัล” แล้วทำตามขั้นตอน เพื่อให้การเปิดบัญชีสินทรัพย์ดิจิทัลเสร็จสมบูรณ์
+div: หรือสำหรับลูกค้าที่ทำการยืนยันตัวผ่าน SCB EASY ในตอนต้น สามารถกดเลือก “ยืนยันตัวตน” แล้วทำตามขั้นตอนยืนยันตัวตนขั้นสูง ทำแบบประเมินความเสี่ยง และทำแบบประเมินความความรู้สินทรัพย์ดิจิทัล เพื่อให้การเปิดบัญชีสินทรัพย์ดิจิทัลเสร็จสมบูรณ์
+span: ท่านจะได้รับแจ้งอนุมัติการเปิดบัญชีลงทุนกับ InnovestX ดังนี้
+span: Email
+span: :
+span: ◦ แจ้งอนุมัติการเปิดบัญชีลงทุนในกองทุนรวม หลักทรัพย์ต่างประเทศ ตราสารหนี้ และหุ้นไทย รวมทั้งรายละเอียดข้อมูล Username สำหรับล็อกอินในแอป Streaming และเว็บไซต์ InnovestX Online เพื่อลงทุนในหุ้นไทย
+span: ◦ สำหรับท่านที่เปิดบัญชีลงทุนสินทรัพย์ดิจิทัล จะได้รับอีเมลแจ้งอนุมัติบัญชีแยกอีก 1 ฉบับ
+span: SMS
+span: : แจ้งอนุมัติการเปิดบัญชีลงทุน
 
 Links:
-https://www.innovestx.co.th/products/product-user-guide/detail/manual/onboarding-manual
+https://onelink.to/homepageinnovestx
+https://onelink.to/homepageinnovestx
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/fund-filter
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/Notification-Tools
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/Real-time
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/structured-note
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/buy-bond
 
 Image URLs:
+https://www.innovestx.co.th/images/default-source/product2022/qr-code/qr-invx.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/01-register.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/idcard_enroll.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/03.easy-invest_thai-register.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/04.easy-invest_(thai)register_privacy-notice.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/open_account.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/07.easy-invest_-otp-mobile_ionboard.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/08.easy-invest_waitingpage_gather-info-from-scb-easy.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/09.easy-invest_(thai)easy-authen-(1).png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/3.2_01-(11)-easy-invest_register_ats-selectbank_inactive.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/3.2_02-(12)-easy-invest_(thai)register_disclaimer-use-info-for-ndid-(1).png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/16.select_account.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/17.select_app_bank.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/18.confirm_app_bank.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/19.ndid-success.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/22.easy-invest_-set-up-pin.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/23.easy-invest_-confirm-pin-1.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/24.easy-invest_(eng)register_verify-information1.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/25.easy-invest_(thai)register_ats-scb-only_active.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/26.easy-invest_(thai)register_ats-kbank.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/27.easy-invest_register_ats-nonscb_active.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/07_01-(28)-easy-invest_(thai)register_tnc-onboarding_disable-(1).png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/29.easy-invest_suit-test-8.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/30.easy-invest_-suit-test2-(thai)-1.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/เธ-เธณเน-เธ-เธ-เธ-เธฃเธฐเน-เธกเธดเธ-เธ-เธงเธฒเธกเธฃเธนเน-เธชเธดเธ-เธ-เธฃเธฑเธ-เธขเน-เธ-เธดเธ-เธดเธ-เธฑเธฅ.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/เธ-เธ-เธ-เธฑเธ-เน-เธ-.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/31.easy-invest_-trading-limit.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/open_account_password.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/33.easy-invest_-information-summary-1(thai).png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/34.easy-invest_-verify-e-mail-(thai).png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/35.easy-invest_-set-up-password-1-(thai).png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/36.easy-invest_successful.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/37.easy-invest.png
+https://www.innovestx.co.th/images/default-source/manual_on_boarding/38.easy-invest.png

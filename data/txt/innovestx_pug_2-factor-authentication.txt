@@ -1,0 +1,44 @@
+Text Content:
+h1: วิธีเปิดใช้งาน 2 Factor-Authentication บนแอปพลิเคชัน
+div: 01
+h3: เปิดใช้งาน 2-Factor-Authentication
+div: หลังจากยืนยันการถอนเหรียญ เลือก “Authenticator”
+div: ติดตั้งแอปพลิเคชัน Google Authenticator บนมือถือโดยเลือก “Download Google Authenticator” เพื่อทำการติดตั้ง
+div: หลังจากติดตั้งสำเร็จ เลือก “เปิดการใช้งาน”
+div: 02
+h3: ดาวน์โหลดแอปพลิเคชัน Google Authenticator
+div: ลิงค์ดาวน์โหลดสำหรับ ios: Google Authenticator on the App Store (apple.com) ลิงค์ดาวน์โหลดสำหรับ android: https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2
+div: ลิงค์ดาวน์โหลดสำหรับ ios: Google Authenticator on the App Store (apple.com) ลิงค์ดาวน์โหลดสำหรับ android: https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2
+div: 03
+h3: เชื่อมต่อ 2-Factor Authentication
+div: บันทึก QR code หรือคัดลอกรหัสบนแอปพลิเคชัน InnovestX
+div: Scan QR code หรือ ใส่รหัสบนแอปพลิเคชัน Google Authenticator
+div: สามารถเลือกวิธีการเปิดใช้งาน 2 Factor-Authentication ได้ 2 วิธี 1. สแกน QR Code : สแกน QR Code ที่ปรากฏ ผ่านแอปพลิเคชัน Goggle Authenticator โดยเลือกที่ “Scan a QR code” และทำการสแกน QR Code 2. กรอก Setup Key : คัดลอกรหัสที่ปรากฏไปยังแอปพลิเคชัน Google Authenticator โดยเลือกที่ “Enter a setup key” 2.1 Account Name: สามารถตั้งชื่อได้ตามต้องการ (แนะนำการตั้งชื่อเป็น InnovestX หรือ INVX) 2.2 Your Key: วางรหัสที่คัดลอกมาจากแอปพลิเคชัน InnovestX หลังกรอกข้อมูลสำเร็จ เลือก “Add”
+li: 1. สแกน QR Code : สแกน QR Code ที่ปรากฏ ผ่านแอปพลิเคชัน Goggle Authenticator โดยเลือกที่ “Scan a QR code” และทำการสแกน QR Code
+li: 2. กรอก Setup Key : คัดลอกรหัสที่ปรากฏไปยังแอปพลิเคชัน Google Authenticator โดยเลือกที่ “Enter a setup key” 2.1 Account Name: สามารถตั้งชื่อได้ตามต้องการ (แนะนำการตั้งชื่อเป็น InnovestX หรือ INVX) 2.2 Your Key: วางรหัสที่คัดลอกมาจากแอปพลิเคชัน InnovestX หลังกรอกข้อมูลสำเร็จ เลือก “Add”
+li: 2.1 Account Name: สามารถตั้งชื่อได้ตามต้องการ (แนะนำการตั้งชื่อเป็น InnovestX หรือ INVX)
+li: 2.2 Your Key: วางรหัสที่คัดลอกมาจากแอปพลิเคชัน InnovestX หลังกรอกข้อมูลสำเร็จ เลือก “Add”
+div: 04
+h3: กรอกรหัส 2-Factor Authentication
+div: หลังจากสแกน QR หรือคัดลอกรหัส ใส่แอป Authenticator ของลูกค้าสำเร็จ เลือก “ใส่รหัสยืนยัน”
+div: กรอกรหัส OTP บนแอป Authenticator เพื่อเปิดใช้งาน
+div: เปิดใช้งานสำเร็จ เลือก “ดำเนินการต่อ”
+
+Links:
+https://apps.apple.com/us/app/google-authenticator/id388497605
+https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2
+https://apps.apple.com/us/app/google-authenticator/id388497605
+https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-invx/2factor-authen/da_2fa_pic01.png
+https://www.innovestx.co.th/images/default-source/manual-invx/2factor-authen/da_2fa_pic02.png
+https://www.innovestx.co.th/images/default-source/manual-invx/2factor-authen/da_2fa_pic03.png
+https://www.innovestx.co.th/images/default-source/manual-invx/2factor-authen/da_2fa_pic04.png
+https://www.innovestx.co.th/images/default-source/manual-invx/2factor-authen/da_2fa_pic04.png
+https://www.innovestx.co.th/images/default-source/manual-invx/2factor-authen/da_2fa_pic07.png
+https://www.innovestx.co.th/images/default-source/manual-invx/2factor-authen/da_2fa_pic08.png
+https://www.innovestx.co.th/images/default-source/manual-invx/2factor-authen/da_2fa_pic09.png
+https://www.innovestx.co.th/images/default-source/manual-invx/2factor-authen/da_2fa_pic10.png
+https://www.innovestx.co.th/images/default-source/manual-invx/2factor-authen/da_2fa_pic11.png
+https://www.innovestx.co.th/images/default-source/manual-invx/2factor-authen/da_2fa_pic12.png

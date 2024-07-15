@@ -1,0 +1,20 @@
+Text Content:
+h2: วิธีการฝากเหรียญ
+span: 1. เข้าเว็ปไซต์ trade.innovestxonline.com/digitalassets ทำการล็อกอิน และที่แถบเมนูข้างซ้าย คลิก “บัญชีสินทรัพย์ดิจิทัล”
+span: 2. ที่หน้าบัญชีสินทรัพย์ดิจิทัล คลิก “ฝาก”
+span: 3. เลือกเหรียญที่ต้องการฝาก
+span: 4. อ่านและยอมรับข้อตกลง และคลิก “ยอมรับ”  เพื่อดำเนินการต่อ
+span: 5. ฝากเหรียญ
+span: 5.1 เลือกเครือข่ายทีต้องการฝากเหรียญ 5.2 คัดลอก Address หรือสแกน QR Code ไปยังกระเป๋าต้นทาง
+span: 6. หลังจากทำการถอนที่กระเป๋าต้นทาง สามารถเช็คสถานะฝากได้ที่หน้ารายการคำสั่ง
+
+Links:
+https://trade.innovestxonline.com/digitalassets/
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-depositcoin/002.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-depositcoin/003.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-depositcoin/004.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-depositcoin/006.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-depositcoin/007.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-depositcoin/008.jpg

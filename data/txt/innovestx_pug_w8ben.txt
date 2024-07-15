@@ -1,58 +1,50 @@
 Text Content:
-h1: การซื้อหุ้นต่างประเทศ
+h1: สมัครบริการยื่นแบบภาษี (W-8BEN)
 div: 01
-h3: ขั้นตอนการซื้อหุ้นต่างประเทศ
-div: คลิก Invest เลือก "หุ้น"
-div: กดเลือกหุ้นที่ต้องการ หรือ จะพิมพ์ชื่อหุ้นที่ตรงช่อง “ค้นหา”
-div: แสดงหน้าจอรายละเอียดหุ้นที่เลือก
-h3: ขั้นตอนการซื้อหุ้นต่างประเทศ
-div: สามารถเลือกส่งคำสั่งซื้อหุ้นต่างประเทศได้ 2 แบบคือแบบ Limit Price กำหนดราคาซื้อเองและ Market Price ซื้อด้วยราคาตลาด
-div: แบบ Limit Price กำหนดราคาซื้อเอง และ Market Price ซื้อด้วยราคาตลาด
-div: กรอกจำนวนเงิน (Amount) หรือหุ้นที่ต้องการซื้อ (Shares)
-div: ตรวจสอบสรุปรายละเอียดรายการซื้อหุ้นต่างประเทศ
-div: กรอก PIN เพื่อยืนยันการทำรายการ
-div: หน้าจอยืนยันการทำรายการ ใบเสร็จการทำรายการจะบันทึกลงอัลบั้มรูปภาพให้อัตโนมัติ
-h3: กรณีมีเงินสกุลต่างประเทศไม่เพียงพอสำหรับซื้อหุ้น
-div: กรณีส่งคำสั่งแบบ Market Price : ระบบจะแนะนำให้แลกเงินเพิ่มเติมอีกอย่างน้อย 10% ของมูลค่าหุ้นรวม เพื่อสำรองในกรณีที่ราคาหุ้นปรับตัวสูงขึ้นจากความผันผวนของราคาโดยสามารถเปลี่ยนแปลงมูลค่าที่ต้องการแลกเงินได้โดยระบุมูลค่าเองหรือเลื่อนแถบเลื่อน
-div: กรณีส่งคำสั่งแบบ Limit Price : ระบบจะสอบถามว่าต้องการแลกเงินในส่วนที่ขาดพร้อมกับลงทุนหรือไม่
-div: กรณีเงินในบัญชีบริหารเงินสดไม่พอ ระบบจะพาไปที่ หน้าจอเติมเงินเข้าบัญชีบริหารเงินสด โดยหลังจากลูกค้าเติมเงินเข้าบัญชีบริหารเงินสดแล้ว ลูกค้าจะต้องเริ่มทำรายการซื้อหุ้นต่างประเทศใหม่
-h1: การขายหุ้นต่างประเทศ
-div: 01
-h3: ขั้นตอนการขายหุ้นต่างประเทศ
-div: สามารถเลือกส่งคำสั่งขายหุ้นต่างประเทศได้ 2 แบบคือแบบ Limit Price กำหนดราคาซื้อเองและ Market Price ซื้อด้วยราคาตลาด
-div: แบบ Limit Price กำหนดราคาขายเอง และ Market Price ขายด้วยราคาตลาด
-div: กรอกจำนวนเงิน (Amount) หรือหุ้นที่ต้องการขาย (Shares)
-h3: ขั้นตอนการขายหุ้นต่างประเทศ
-div: ตรวจสอบสรุปรายละเอียดรายการขายหุ้นต่างประเทศ
-div: กรอก PIN เพื่อยืนยันการทำรายการ
-div: หน้าจอยืนยันการทำรายการ ใบเสร็จการทำรายการจะบันทึกลงอัลบั้มรูปภาพให้อัตโนมัติ
+h3: เลือกบัญชีสกุลเงินต่างประเทศ
+span: ในขั้นตอนการซื้อสกุลเงิน USD ครั้งแรก ระบบจะนำเข้าสู่การสมัครบริการยื่นแบบภาษี W-8BEN โดยอัตโนมัติ
+div: เลือก “บัญชีสกุลเงินต่างประเทศ”
+div: เลือกสกุลเงิน USD
+div: กด “ซื้อสกุลเงินต่างประเทศ”
+div: 02
+h3: เข้าสู่การสมัครบริการยื่นแบบภาษี W-8BEN
+span: W-8BEN คือ แบบภาษีที่กรมสรรพากรสหรัฐอเมริกา (IRS) กำหนดให้บุคคลต่างชาติทุกคนที่มีรายได้ในสหรัฐอเมริกา ต้องยื่นเพื่อรับรองว่าไม่ได้เป็นบุคคลสัญชาติอเมริกัน ไม่ได้ทำงานหรือไม่ได้ประกอบธุรกิจในสหรัฐอเมริกา การยื่นแบบภาษี พ-8BEN มีค่าบริการ 2,000 บาท ต่อ 3 ปีปฏิทิน และลูกค้าจะได้รับสิทธิประโยชน์ลดภาษีเงินปันผลจากร้อยละ 30 เป็นร้อยละ 15
+div: ศึกษารายละเอียดแบบภาษี W-8BEN แล้วกด “ถัดไป”
+div: กรอกข้อมูลเป็นภาษาอังกฤษแล้วกด “ถัดไป”
+div: ตรวจสอบข้อมูลการชำระค่าบริการแล้วกด “ยืนยัน”
 div: 03
-h3: หน้าจอ Activity
-div: หน้าจอ Activity
-div: สถานะการซื้อขายหุ้นต่างประเทศประกอบด้วยรายละเอียดตามด้านบนนี้
+h3: ชำระค่าบริการยื่นแบบภาษี W-8BEN
+div: กรอกรหัส PIN เพื่อยืนยันการทำรายการ
+div: ชำระค่าบริการสำเร็จ เลือก “ยืนยันตัวตนเพื่อส่งแบบภาษี W-8BEN”
+h2: หลังจากยื่นแบบภาษี สำหรับการแลกสกุลเงินต่างประเทศครั้งแรก ลูกค้าสามารถแลกเงินได้ในวันทำการเดียวกัน โดยระบบจะเปิดใช้งานบัญชีสกุลเงินต่างประเทศของลูกค้า และยอดเงินจะเข้าบัญชีสกุลเงินต่างประเทศหลังทำรายการประมาณ
+                20 นาที
+div: 04
+h3: ยืนยันตัวตนเพื่อส่งแบบภาษี W-8BEN
+span: กรุณาทำตามขั้นตอน เพื่อยืนยันตัวตนและรักษาผลประโยชน์ทางภาษี โดยกระบวนการตรวจสอบแบบภาษีจะใช้เวลาประมาณ 3 วันทำการ
+h2: ดูขั้นตอนการยืนยัน ตัวตน W-8BEN
+h2: ท่านจะมีสิทธิ์ได้รับการลดหย่อนภาษีหัก ณ ที่จ่าย ของเงินปันผลจากหลักทรัพย์อเมริกา เมื่อท่านลงทะเบียนตามขั้นตอนในเอกสารนี้เรียบร้อย และเอกสารผ่านการตรวจสอบตามเกณฑ์ของ IRS แล้วเท่านั้น
+h2: การลงทะเบียนเสร็จสิ้น ท่านสามารถดาวน์โหลดข้อมูลของท่าน โดยกดที่ไอคอน PDF
+span: กรณีที่ท่านยังไม่ได้ทำตามขั้นตอนยืนยันตัวตนให้เสร็จสมบูรณ์ สามารถกลับมาทำให้สำเร็จ 
+                โดยทำตามขั้นตอนดังนี้
+div: ไปที่เมนู “Activity” เลือก “W-8BEN” และกด “ยืนยันตัวตนเพื่อส่งแบบภาษี W-8BEN” แล้วทำตามขั้นตอน
+div: เมื่อลงทะเบียนสำเร็จ แล้วกลับมาที่หน้า Activity จะมี Status เป็น complete
 
 Links:
+https://www.innovestx.co.th/docs/default-source/product-pdf/offshore/w-8ben-manual-2023.pdf?sfvrsn=e7c1dec8_1
 https://www.innovestx.co.th/products/product-user-guide/detail/manual/Manual-FX
-https://www.innovestx.co.th/products/product-user-guide/detail/manual/w8ben
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/foreign-stock-trading
 
 Image URLs:
-https://www.innovestx.co.th/images/default-source/offshore/01.invest.png
-https://www.innovestx.co.th/images/default-source/offshore/02.input_info.png
-https://www.innovestx.co.th/images/default-source/offshore/03.graph_stock.png
-https://www.innovestx.co.th/images/default-source/offshore/04.input_amount.png
-https://www.innovestx.co.th/images/default-source/offshore/order_type.png
-https://www.innovestx.co.th/images/default-source/offshore/selling_amount.png
-https://www.innovestx.co.th/images/default-source/offshore/05.stock_conclusion.png
-https://www.innovestx.co.th/images/default-source/offshore/06.pin_default_filling.png
-https://www.innovestx.co.th/images/default-source/offshore/07.confirmed_list.png
-https://www.innovestx.co.th/images/default-source/offshore/12.popup_error.png
-https://www.innovestx.co.th/images/default-source/offshore/16.popup_error.png
-https://www.innovestx.co.th/images/default-source/offshore/not_enogh_cash.png
-https://www.innovestx.co.th/images/default-source/offshore/08.input_amount-copy.png
-https://www.innovestx.co.th/images/default-source/offshore/order_type.png
-https://www.innovestx.co.th/images/default-source/offshore/selling_amount.png
-https://www.innovestx.co.th/images/default-source/offshore/21.checkinglist.png
-https://www.innovestx.co.th/images/default-source/offshore/26.pin_default_filling.png
-https://www.innovestx.co.th/images/default-source/offshore/27.list_confirmed.png
-https://www.innovestx.co.th/images/default-source/offshore/28.activities.png
-https://www.innovestx.co.th/images/default-source/offshore/1662009756485.jpg
+https://www.innovestx.co.th/images/default-source/w8ben/01.entry_point.png
+https://www.innovestx.co.th/images/default-source/w8ben/select_usd.png
+https://www.innovestx.co.th/images/default-source/w8ben/03.buy_offshore.png
+https://www.innovestx.co.th/images/default-source/w8ben/02.entry_point.png
+https://www.innovestx.co.th/images/default-source/w8ben/03.input_info.png
+https://www.innovestx.co.th/images/default-source/w8ben/04.pre-confirm.png
+https://www.innovestx.co.th/images/default-source/w8ben/05.pin_default_filling.png
+https://www.innovestx.co.th/images/default-source/w8ben/w8ben_04-2.png
+https://www.innovestx.co.th/images/default-source/w8ben/w8ben_04-3.png
+https://www.innovestx.co.th/images/default-source/w8ben/microsoftteams-image-(1).png
+https://www.innovestx.co.th/images/default-source/w8ben/w8ben_04-4.png
+https://www.innovestx.co.th/images/default-source/w8ben/w8ben_04-5.png
+https://www.innovestx.co.th/images/default-source/w8ben/w8ben_04-6.png

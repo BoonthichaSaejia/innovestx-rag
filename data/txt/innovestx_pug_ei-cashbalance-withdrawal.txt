@@ -1,0 +1,41 @@
+Text Content:
+h1: ถอนเงินผ่านบัญชีบริหารเงินสด
+div: 01
+h3: เลือกบัญชีต้องการถอนเงิน
+div: เลือก ”บัญชีบริหารเงินสด”
+div: กด “ถอนเงิน”
+div: กด ”กรุณาเลือกบัญชี”
+div: เลือกบัญชี ที่ต้องการถอน
+div: 02
+h3: เลือกวิธีการถอนเงิน
+div: เลือกถอนฟรี ระบุจำนวนเงิน และกด “ตรวจสอบข้อมูล”
+h3: ถอนฟรี(ไม่มีค่าธรรมเนียม) - หากทำรายการถอนเงินระหว่างเวลา 06.00 - 19.30 น. เงินจะเข้าบัญชีเงินฝากภายใน 3 ชั่วโมง - หากทำรายการถอนเงินนอกเวลาดังกล่าว เงินจะเข้าบัญชีเงินฝากภายใน 11.00 น. ของวันทำการถัดไป - ขั้นตํ่าในการถอนอยู่ที่
+                2,000 บาท แต่หากมีเงินในบัญชีบริหารเงินสดน้อยกว่า 2,000 บาท ระบบจะบังคับให้ถอนเงินออกจากบัญชีทั้งหมด
+div: เลือกถอนทันที ระบุจำนวนเงิน และกด “ตรวจสอบข้อมูล”
+h3: ถอนทันที(มีค่าธรรมเนียม) - การถอนเงินทันทีสามารถเลือกถอนเงินได้ผ่าน 3 ช่องทางคือ บัญชีธนาคารไทยพาณิชย์ บัญชีธนาคารอื่น และพร้อมเพย์ - หากเลือกรายการถอนเงินทันที เงินจะเข้าบัญชีที่ได้เลือกไว้ทันที - ขั้นตํ่าในการถอนอยู่ที่
+                2,000 บาท แต่หากมีเงินในบัญชีบริหารเงินสดน้อยกว่า 2,000 บาท ระบบจะบังคับให้ถอนเงินออกจากบัญชีทั้งหมด
+div: 03
+h3: กรอกรหัส PIN เพื่อยืนยันการส่งคำสั่งถอนเงิน
+div: กด “ยืนยัน”
+div: กรอกรหัส PIN เพื่อยืนยันการส่งคำสั่งถอนเงิน
+div: ส่งคำสั่งถอนเงิน หรือถอนเงินสำเร็จโดยสามารถกดปุ่ม “ดูประวัติการทำรายการ” เพื่อตรวจสอบสถานะคำสั่งซื้อ
+h3: *หากมีเงินในบัญชีบริหารเงินสดน้อยกว่า 2,000 บาท ระบบจะบังคับให้ถอนเงินออกจากบัญชีทั้งหมด และไม่อนุญาตให้ระบุจำนวนเงินเอง
+
+Links:
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-activitiy
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/topup-scb-account
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/topup-qrcode
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-buy-fund
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-sell-fund
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/request-monthly-statement
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/42.picture52-copy.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/33.picture44.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/34.picture45.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/04.picture33.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/35.picture46.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/36.picture46.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/37.picture48.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/39.buy_pin-copy-3.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/40.picture50.png

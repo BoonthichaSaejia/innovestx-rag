@@ -1,0 +1,27 @@
+Text Content:
+h1: เติมเงินเข้าบัญชีบริหารเงินสดผ่าน QR Code
+div: 01
+h3: เลือก บัญชีบริหารเงินสด เพื่อเปิดและเติมเงิน
+div: เลือก ”บัญชีบริหารเงินสด”
+div: กด “เปิดและเติมเงินเข้า บัญชีบริหารเงินสด”
+div: 02
+h3: เลือกวิธีชำระเงินผ่านบัญชีธนาคาร และระบุจำนวนเงิน
+div: เลือกวิธีชำระเงิน
+div: เลือกบัญชีธนาคารที่ต้องการใช้เป็นบัญชีชำระเงิน
+div: กด “บันทึก QR Code” และ ชำระเงินโดยใช้ QR Code นี้ ผ่านแอปพลิเคชันธนาคารใดก็ได้
+h2: *ลูกค้าสามารถเก็บ QR code ที่สร้างไว้เพื่อเติมเงินได้ตลอด ไม่จำเป็นต้องกลับมาสร้างใหม่ทุกครั้ง **เติมเงินผ่าน QR code ได้สูงสุด 2 ล้านบาท (ทั้งนี้ขึ้นอยู่กับข้อกำหนดของธนาคาร และบัญชีที่ลูกค้าทำรายการเข้ามาด้วย)
+
+Links:
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-withdrawal
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-activitiy
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/topup-scb-account
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-buy-fund
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-sell-fund
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/request-monthly-statement
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/32.picture52-copy.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/02.picture31.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/03.picture32.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/13.picture33.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/14.picture37.png

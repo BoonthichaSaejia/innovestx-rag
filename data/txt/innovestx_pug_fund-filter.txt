@@ -1,0 +1,19 @@
+Text Content:
+h2: Fund filter
+div: 01
+h3: Freemium
+div: 1. กดปุ่ม “ตัวกรอง”
+div: 2. เลือกรายละเอียดที่ต้องการกรองจากนั้นกด “กรองข้อมูล”
+div: 3. ในกรณีไม่พบกองทุน
+
+Links:
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/onboarding-manual
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/Notification-Tools
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/Real-time
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/structured-note
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/buy-bond
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-fund/01.filter.png
+https://www.innovestx.co.th/images/default-source/manual-fund/02.filter_default_ideal-1.png
+https://www.innovestx.co.th/images/default-source/manual-fund/03.filter_default_ideal-2.png

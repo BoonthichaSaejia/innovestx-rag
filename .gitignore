@@ -1,3 +1,6 @@
 .env
 #vitual environment
 innovestx-rag 
+src/rag/innovestx_assistant.ipynb
+src/rag/retrieval.ipynb
+config.py

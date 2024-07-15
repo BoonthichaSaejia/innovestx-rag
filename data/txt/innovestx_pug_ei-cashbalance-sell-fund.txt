@@ -1,13 +1,17 @@
 Text Content:
-h1: ขอเอกสารรายการเดินบัญชีรายเดือน
+h1: ขายกองทุนรวมผ่านบัญชีบริหารเงินสด
 div: 01
-h3: เลือก “บัญชีบริหารเงินสด” แล้วเลือก “ขอเอกสาร”
-div: เลือก ”บัญชีบริหารเงินสด”
-div: เลือก “ขอเอกสาร”
+h3: เลือกกองทุนรวมที่ต้องการขายและกด “ขาย”
+div: เลือกกองทุนที่ต้องการขาย โดยกดเข้าไปที่เมนู “PORTFOLIO”
+div: กด “ขาย”
+div: เลือกบัญชีรับเงินค่าขายคืนเป็น “บัญชีบริหารเงินสด” ระบุจำนวนเงินที่ต้องการขายและกดตรวจสอบข้อมูล
 div: 02
-h3: เลือกช่วงเวลา แล้วเลือก “ส่งคำขอ”
-div: ระบุ “เดือนเริ่มต้น” และ“จนถึงเดือน” ที่ต้องการขอเอกสารเลือก “ส่งคำขอ“
-div: ได้รับข้อความแสดง การจัดส่งเอกสารไปยังอีเมลของท่าน
+h3: ตรวจสอบข้อมูล และยืนยันการส่งคำสั่งขาย
+div: ตรวจสอบข้อมูลคำสั่งขาย อีกครั้ง แล้วกด “ส่งคำสั่งขาย”
+div: กรอกรหัส PIN เพื่อยืนยันการส่งคำสั่งขาย
+div: ส่งคำสั่งขายสำเร็จ โดย สามารถกดปุ่ม “ดูประวัติการ ทำรายการ” เพื่อตรวจสอบ
+h2: *ลูกค้าจะได้รับเงินจากการขายกองทุนตามวัน Sattlement ของแต่ละกองทุนและลูกค้าสามารถนำเงินไปลงทุนในกองทุนรวม หรือ แลกเปลี่ยนเป็นสกุลเงินต่างประเทศต่อไปได้ในทันที ยกเว้น กรณีที่ลูกค้าต้องการถอนเงินสดออกจากบัญชีบริหารเงินสดสามารถทำรายการได้ทันที แต่เงินจะเข้าบัญชีเงินฝากภายใน
+        3 ชั่วโมง หลังจากทำรายการถอนเงินสำเร็จ โดยเงินจะเข้าบัญชีธนาคารไทยพานิชย์ที่ลูกค้าผูกไว้กับแอพพลิเคชั่น InnovestX กรณีที่ลูกค้าถอนเงินหลังเวลา 19:30 น. เงินจะเข้าบัญชีเงินฝากภายในเวลา 11:00 น. ของวันถัดไป
 
 Links:
 https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-withdrawal
@@ -15,10 +19,12 @@ https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbal
 https://www.innovestx.co.th/products/product-user-guide/detail/manual/topup-scb-account
 https://www.innovestx.co.th/products/product-user-guide/detail/manual/topup-qrcode
 https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-buy-fund
-https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-sell-fund
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/request-monthly-statement
 
 Image URLs:
-https://www.innovestx.co.th/images/default-source/request-monthly-statement/01.picture52.png
-https://www.innovestx.co.th/images/default-source/request-monthly-statement/48.picture28.png
-https://www.innovestx.co.th/images/default-source/request-monthly-statement/49.picture29.png
-https://www.innovestx.co.th/images/default-source/request-monthly-statement/50.picture30.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/25.picture38.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/26.picture39.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/27.picture41.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/28.picture42.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/29.buy_pin-copy-2.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/30.picture43.png

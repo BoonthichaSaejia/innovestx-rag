@@ -1,50 +1,58 @@
 Text Content:
+h1: การซื้อหุ้นต่างประเทศ
 div: 01
-h3: ขั้นตอนการซื้อสกุลเงิน
-div: เลือก ”บัญชีสกุลเงินต่างประเทศ”
-div: กดเลือกสกุลเงินที่ต้องการ
-div: กด ”ซื้อสกุลต่างประเทศ”
-div: ระบุจำนวนเงิน แล้วกด "ตรวจสอบข้อมูล"
-div: มูลค่าการแลกเงินต่อครั้ง
-div: กรณีลูกค้าต้องการซื้อสกุลเงินต่างประเทศ แต่เงินใน”บัญชีบริหารเงินสด”ไม่พอ ต้องไปเติมเงินใน”บัญชีบริหารเงินสด” ก่อน
-h3: *การซื้อสกุลเงินผ่าน InnovestX จะรองรับการซื้อด้วย Wallet เท่านั้น **กรณีซื้อสกุลเงินต่างประเทศ จะได้รับอัตราแลกเปลี่ยน ณ ปัจจุบัน ในกรณีที่ระหว่างทำรายการอัตราแลกเปลี่ยนมีการเปลี่ยนแปลง จะมีข้อความแจ้งเตือน “อัตราแลกเปลี่ยนมีการเปลี่ยนแปลง” ปรากฏขึ้นบนหน้าจอ *** จะไม่สามารถทำรายการแลกเงินได้ในวันเสาร์ เวลา 08:00 น. ถึงวันอาทิตย์ เวลา 23:00 น.
-h3: กด “ยืนยัน” กรอกรหัส PIN ทำรายการสำเร็จ
-div: กด “ยืนยัน”
-div: กรอกรหัส PIN
-div: ทำรายการสำเร็จ
-h3: *Slip การทำรายการจะ save ลง photo gallery ให้อัตโนมัติ **การซื้อสกุลเงินผ่าน InnovestX เงินสกุลต่างประเทศจะเข้าบัญชีบริหารเงินสดทันที
-h3: การขายสกุลเงินต่างประเทศ
-div: 02
-h3: ขั้นตอนการขายสกุลเงิน
-div: เลือก ”บัญชีสกุลเงินต่างประเทศ”
-div: กดเลือกสกุลเงินที่ต้องการ
-div: กด ”ขายสกุลต่างประเทศ”
-div: ระบุจำนวนเงิน แล้วกด "ตรวจสอบข้อมูล"
-div: มูลค่าการแลกเงินต่อครั้ง
-div: กด “ยืนยัน”
-div: กรอกรหัส PIN
-div: ทำรายการสำเร็จ
-h3: *Slip การทำรายการจะ save ลง photo gallery ให้อัตโนมัติ **การขายสกุลเงินผ่าน InnovestX เงินจะเข้าบัญชีบริหารเงินสดภายใน 3 วันทำการ *** จะไม่สามารถทำรายการแลกเงินได้ในวันเสาร์ เวลา 08:00 น. ถึงวันอาทิตย์ เวลา 23:00 น.
+h3: ขั้นตอนการซื้อหุ้นต่างประเทศ
+div: คลิก Invest เลือก "หุ้น"
+div: กดเลือกหุ้นที่ต้องการ หรือ จะพิมพ์ชื่อหุ้นที่ตรงช่อง “ค้นหา”
+div: แสดงหน้าจอรายละเอียดหุ้นที่เลือก
+h3: ขั้นตอนการซื้อหุ้นต่างประเทศ
+div: สามารถเลือกส่งคำสั่งซื้อหุ้นต่างประเทศได้ 2 แบบคือแบบ Limit Price กำหนดราคาซื้อเองและ Market Price ซื้อด้วยราคาตลาด
+div: แบบ Limit Price กำหนดราคาซื้อเอง และ Market Price ซื้อด้วยราคาตลาด
+div: กรอกจำนวนเงิน (Amount) หรือหุ้นที่ต้องการซื้อ (Shares)
+div: ตรวจสอบสรุปรายละเอียดรายการซื้อหุ้นต่างประเทศ
+div: กรอก PIN เพื่อยืนยันการทำรายการ
+div: หน้าจอยืนยันการทำรายการ ใบเสร็จการทำรายการจะบันทึกลงอัลบั้มรูปภาพให้อัตโนมัติ
+h3: กรณีมีเงินสกุลต่างประเทศไม่เพียงพอสำหรับซื้อหุ้น
+div: กรณีส่งคำสั่งแบบ Market Price : ระบบจะแนะนำให้แลกเงินเพิ่มเติมอีกอย่างน้อย 10% ของมูลค่าหุ้นรวม เพื่อสำรองในกรณีที่ราคาหุ้นปรับตัวสูงขึ้นจากความผันผวนของราคาโดยสามารถเปลี่ยนแปลงมูลค่าที่ต้องการแลกเงินได้โดยระบุมูลค่าเองหรือเลื่อนแถบเลื่อน
+div: กรณีส่งคำสั่งแบบ Limit Price : ระบบจะสอบถามว่าต้องการแลกเงินในส่วนที่ขาดพร้อมกับลงทุนหรือไม่
+div: กรณีเงินในบัญชีบริหารเงินสดไม่พอ ระบบจะพาไปที่ หน้าจอเติมเงินเข้าบัญชีบริหารเงินสด โดยหลังจากลูกค้าเติมเงินเข้าบัญชีบริหารเงินสดแล้ว ลูกค้าจะต้องเริ่มทำรายการซื้อหุ้นต่างประเทศใหม่
+h1: การขายหุ้นต่างประเทศ
+div: 01
+h3: ขั้นตอนการขายหุ้นต่างประเทศ
+div: สามารถเลือกส่งคำสั่งขายหุ้นต่างประเทศได้ 2 แบบคือแบบ Limit Price กำหนดราคาซื้อเองและ Market Price ซื้อด้วยราคาตลาด
+div: แบบ Limit Price กำหนดราคาขายเอง และ Market Price ขายด้วยราคาตลาด
+div: กรอกจำนวนเงิน (Amount) หรือหุ้นที่ต้องการขาย (Shares)
+h3: ขั้นตอนการขายหุ้นต่างประเทศ
+div: ตรวจสอบสรุปรายละเอียดรายการขายหุ้นต่างประเทศ
+div: กรอก PIN เพื่อยืนยันการทำรายการ
+div: หน้าจอยืนยันการทำรายการ ใบเสร็จการทำรายการจะบันทึกลงอัลบั้มรูปภาพให้อัตโนมัติ
+div: 03
+h3: หน้าจอ Activity
+div: หน้าจอ Activity
+div: สถานะการซื้อขายหุ้นต่างประเทศประกอบด้วยรายละเอียดตามด้านบนนี้
 
 Links:
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/Manual-FX
 https://www.innovestx.co.th/products/product-user-guide/detail/manual/w8ben
-https://www.innovestx.co.th/products/product-user-guide/detail/manual/foreign-stock-trading
 
 Image URLs:
-https://www.innovestx.co.th/images/default-source/offshore/01.entry_pointde79c372-ba0f-43e2-8eb9-a160e6d045e7.png
-https://www.innovestx.co.th/images/default-source/manual-fx/12.select_currency.png
-https://www.innovestx.co.th/images/default-source/manual-fx/03.buycurrency.png
-https://www.innovestx.co.th/images/default-source/manual-fx/04.buy_input_info.png
-https://www.innovestx.co.th/images/default-source/manual-fx/15.value_exchange.png
-https://www.innovestx.co.th/images/default-source/manual-fx/06.addmoneytoaccount.png
-https://www.innovestx.co.th/images/default-source/manual-fx/16.buy_pre-confirm-copy.png
-https://www.innovestx.co.th/images/default-source/manual-fx/17.pin_default_filling-copy.png
-https://www.innovestx.co.th/images/default-source/manual-fx/18.sell_post-confirm-copy.png
-https://www.innovestx.co.th/images/default-source/offshore/01.entry_pointde79c372-ba0f-43e2-8eb9-a160e6d045e7.png
-https://www.innovestx.co.th/images/default-source/manual-fx/12.select_currency.png
-https://www.innovestx.co.th/images/default-source/manual-fx/13.sell_currency.png
-https://www.innovestx.co.th/images/default-source/manual-fx/14.sell_input_info.png
-https://www.innovestx.co.th/images/default-source/manual-fx/15.value_exchange.png
-https://www.innovestx.co.th/images/default-source/manual-fx/16.buy_pre-confirm-copy.png
-https://www.innovestx.co.th/images/default-source/manual-fx/17.pin_default_filling-copy.png
-https://www.innovestx.co.th/images/default-source/manual-fx/18.sell_post-confirm-copy.png
+https://www.innovestx.co.th/images/default-source/offshore/01.invest.png
+https://www.innovestx.co.th/images/default-source/offshore/02.input_info.png
+https://www.innovestx.co.th/images/default-source/offshore/03.graph_stock.png
+https://www.innovestx.co.th/images/default-source/offshore/04.input_amount.png
+https://www.innovestx.co.th/images/default-source/offshore/order_type.png
+https://www.innovestx.co.th/images/default-source/offshore/selling_amount.png
+https://www.innovestx.co.th/images/default-source/offshore/05.stock_conclusion.png
+https://www.innovestx.co.th/images/default-source/offshore/06.pin_default_filling.png
+https://www.innovestx.co.th/images/default-source/offshore/07.confirmed_list.png
+https://www.innovestx.co.th/images/default-source/offshore/12.popup_error.png
+https://www.innovestx.co.th/images/default-source/offshore/16.popup_error.png
+https://www.innovestx.co.th/images/default-source/offshore/not_enogh_cash.png
+https://www.innovestx.co.th/images/default-source/offshore/08.input_amount-copy.png
+https://www.innovestx.co.th/images/default-source/offshore/order_type.png
+https://www.innovestx.co.th/images/default-source/offshore/selling_amount.png
+https://www.innovestx.co.th/images/default-source/offshore/21.checkinglist.png
+https://www.innovestx.co.th/images/default-source/offshore/26.pin_default_filling.png
+https://www.innovestx.co.th/images/default-source/offshore/27.list_confirmed.png
+https://www.innovestx.co.th/images/default-source/offshore/28.activities.png
+https://www.innovestx.co.th/images/default-source/offshore/1662009756485.jpg

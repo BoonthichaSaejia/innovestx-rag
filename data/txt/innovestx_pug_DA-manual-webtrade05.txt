@@ -1,0 +1,21 @@
+Text Content:
+h2: วิธีการซื้อเหรียญ
+span: 1. เข้าเว็ปไซต์ trade.innovestxonline.com/digitalassets ทำการล็อกอิน และที่เมนูแถบข้างซ้าย คลิก “ซื้อขาย”
+span: 2. สามารถเลือกเหรียญที่ต้องการซื้อ โดยการคลิกที่ dropdown ตรงชื่อของเหรียญ
+span: 3. สั่งซื้อเหรียญ
+span: 3.1. เลือกเป็นคำสั่งซื้อ
+span: 3.2. เลือกสั่งแบบ Limit หรือ Market
+span: กำหนดเอง ( limit order ) คือการกำหนดราคาต่อเหรียญเองโดยผู้ซื้อ
+span: 4. ตรวจสอบข้อมูลการสั่งซื้อ แล้วคลิก “ยืนยัน”
+span: 5. ตรวจสอบรายการคำสั่งหรือประวัติการทำรายการ
+span: สามารถตรวจสอบรายการคำสั่งขายหรือประวัติการทำรายการได้จากด้านล่าง เพื่อดูสถานการณ์จับคู่คำสั่ง หรือคำสั่งซื้อสำเร็จแล้ว หมายเหตุ: ในกรณีที่ระบบอยู่ในช่วงปิดปรับปรุง ระบบจะทำการยกเลิกรายการคำสั่งที่ยังจับคู่ไม่ครบโดยอัติโนมัติ
+
+Links:
+https://trade.innovestxonline.com/digitalassets/
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-howtobuycoin/002.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-howtobuycoin/003.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-howtobuycoin/004.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-howtobuycoin/005.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-howtobuycoin/006.jpg

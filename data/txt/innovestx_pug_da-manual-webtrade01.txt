@@ -1,0 +1,39 @@
+Text Content:
+h2: วิธีการเข้าสู่ระบบด้วย Username/Password
+span: 1. เข้าเว็ปไซต์ trade.innovestxonline.com/digitalassets คลิก "เข้าสู่ระบบ" ด้านขวาบนของเว็บไซต์หน้าหลัก
+span: 2. กรอก Email/password ในการเข้าสู่ระบบ (ต้องเป็นบัญชีที่ได้ทำการลงทะเบียนบน แอปพลิเคชัน InnovestX)
+span: 3. คลิก "เข้าสู่ระบบ" ในกรณีที่ไม่มีบัญชีลงทุนสินทรัพย์ดิจิทัล ท่านต้องทำการเปิดบัญชีบนแอป InnovestX ก่อน
+span: 4. ยืนยัน mobile OTP (ถ้าลูกค้ามีหมายเลขโทรศัพท์มากกว่า 1 เบอร์ จะต้องเลือกเบอร์ที่สามารถใช้งานได้ และต้องการให้ระบบส่ง OTP ให้โดย ถ้าลูกค้ามีเบอร์เดียวในระบบจะข้ามขั้นตอนนี้ไป)
+span: 5. เลือกเบอร์ และ กด "ยืนยัน"
+span: 6. ยืนยัน mobile OTP โดยกรอกรหัส OTP ที่ถูกส่งไปที่มือถือของลูกค้า
+span: 7. เข้าสู่ระบบสำเร็จ
+h2: วิธีการเข้าสู่ระบบด้วย QR Code
+span: 1. เข้าเว็ปไซต์ trade.innovestxonline.com/digitalassets คลิก "เข้าสู่ระบบ" ด้านขวาบนของเว็บไซต์หน้าหลัก
+span: 2. QR Code จะอยู่ทางด้านขวามือ
+span: 3. ล๊อคอินเข้าแอปพลิเคชัน
+span: 4. ทำการแสกน QR Code โดยให้ QR Code ที่ปรากฎ อยู่ภายในกรอกสี่เหลี่ยม
+span: 5. ยืนยัน mobile OTP (ถ้าลูกค้ามีหมายเลขโทรศัพท์มากกว่า 1 เบอร์ จะต้องเลือกเบอร์ที่สามารถใช้งานได้ และต้องการให้ระบบส่ง OTP ให้ โดย ถ้าลูกค้ามีเบอร์เดียวในระบบจะข้ามขั้นตอนนี้ไป)
+span: 6. ยืนยัน mobile OTP
+span: 7. กรอกรหัส OTP ที่ถูกส่งไปที่มือถือของลูกค้า
+span: 8. เข้าสู่ระบบสำเร็จ
+
+Links:
+https://trade.innovestxonline.com/digitalassets/
+https://trade.innovestxonline.com/digitalassets/
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-login/009.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-login/003.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-login/004.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-login/005.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-login/006.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-login/007.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-login/008.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-login/009.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-login/010.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-login/011.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-login/012.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-login/013.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-login/014.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-login/015.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-login/016.jpg

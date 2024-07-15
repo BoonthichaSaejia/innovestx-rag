@@ -1,0 +1,44 @@
+Text Content:
+div: 01
+h3: เลือกเมนู “ROBO ADVISOR” และเลือกเป้าหมายการลงทุน
+div: เลือกเมนู​ "ROBO ADVISOR"
+div: ศึกษารายละเอียด และกด "ลงทุน"
+div: เลือก "เงินลงทุนครั้งแรก" และ "ระยะเวลาลงทุน"
+div: 02
+h3: ระบุความต้องการ เพื่อสร้างแผนการลงทุน
+div: กรณีตั้งลงทุนรายเดือนระบุ "เงินลงทุนรายเดือน" หรือ "เงินเป้าหมาย" (สามารถยกเลิกปรับเปลี่ยนภายหลังได้)
+div: เลือก "ระดับความเสี่ยงพอร์ลงทุน" และเลือกเปิด/ปิด "ความเสี่ยง FX" (ไม่สามารถเปลี่ยนภายหลังได้)
+div: หากพอใจกับผลตอบแทนประมาณการณ์จากแผนการลงทุน กด "ถัดไป" หรือเลื่อนขึ้นเพื่อปรับแต่งแผน
+div: 03
+h3: ตรวจสอบข้อมูล และยืนยันสร้างพอร์ตลงทุน
+div: ตรวจสอบข้อมูลพอร์ตลงทุน
+div: ศึกษารายละเอียดพอร์ตลงทุนสามารถกดไอคอนเอกสาร เพื่อศึกษาหนังสือชี้ชวน
+div: เมื่อพร้อมลงทุนแล้ว กด "ยืนยันสร้างพอร์ตลงทุน"
+div: 04
+h3: ยืนยันส่งคำสั่งซื้อ ชำระเงิน และติดตามสถานะคำสั่งซื้อ-ขาย
+div: กด "ยืนยันส่งคำสั่งซื้อและชำระเงิน"
+div: กด "ส่งคำสั่งซื้อและชำระเงิน"
+div: สร้างคำสั่งซื้อ-ขาย เรียบร้อยแล้ว
+
+Links:
+https://www.innovestx.co.th#
+https://www.innovestx.co.thทดสอบ
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-buy-fund
+https://www.innovestx.co.th/knowledge-hub/detail/start-investing-the-first-step/what-is-value-investment-and-value-stock
+https://www.innovestx.co.th/knowledge-hub/detail/investment-by-asset/stock-vs-mutualfund
+https://www.innovestx.co.th/knowledge-hub/detail/passiveincome/dca-2
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/default-album/contentimg.png?sfvrsn=57921bb8_1
+https://www.innovestx.co.th/ResourcePackages/scbs/assets/dist/images/blog-details-manual/carousel_1_1.png
+https://www.innovestx.co.th/ResourcePackages/scbs/assets/dist/images/blog-details-manual/carousel_1_2.png
+https://www.innovestx.co.th/ResourcePackages/scbs/assets/dist/images/blog-details-manual/carousel_1_3.png
+https://www.innovestx.co.th/ResourcePackages/scbs/assets/dist/images/blog-details-manual/carousel_2_1.png
+https://www.innovestx.co.th/ResourcePackages/scbs/assets/dist/images/blog-details-manual/carousel_2_2.png
+https://www.innovestx.co.th/ResourcePackages/scbs/assets/dist/images/blog-details-manual/carousel_2_3.png
+https://www.innovestx.co.th/ResourcePackages/scbs/assets/dist/images/blog-details-manual/carousel_3_1.png
+https://www.innovestx.co.th/ResourcePackages/scbs/assets/dist/images/blog-details-manual/carousel_3_2.png
+https://www.innovestx.co.th/ResourcePackages/scbs/assets/dist/images/blog-details-manual/carousel_3_3.png
+https://www.innovestx.co.th/ResourcePackages/scbs/assets/dist/images/blog-details-manual/carousel_4_1.png
+https://www.innovestx.co.th/ResourcePackages/scbs/assets/dist/images/blog-details-manual/carousel_4_2.png
+https://www.innovestx.co.th/ResourcePackages/scbs/assets/dist/images/blog-details-manual/carousel_4_3.png

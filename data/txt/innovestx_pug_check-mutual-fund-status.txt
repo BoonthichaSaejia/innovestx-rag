@@ -1,0 +1,13 @@
+Text Content:
+h1: ตรวจสอบสถานะกองทุนรวม
+div: 01
+h3: กด “Activity” เลือกแถบ “กองทุนไทย” เพื่อตรวจสอบสถานะคำสั่ง
+
+Links:
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/buy-mutal-fund
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/mutual-fund-cancellation
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/switch-mutual-funds
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/sale-unit-trusts
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/61.activity.png

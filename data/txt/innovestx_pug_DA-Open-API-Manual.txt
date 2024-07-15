@@ -1,0 +1,31 @@
+Text Content:
+h2: วิธีใช้งาน Open API สินทรัพย์ดิจิทัล
+span: API คืออะไร? API หรือ Application Programming Interface คือการเชื่อมต่อระหว่างเว็บไซต์ผู้ให้บริการกับผู้ใช้งานให้เป็นไปอย่างมีประสิทธิภาพและสะดวกสบายยิ่งขึ้น โดยผู้ใช้งานสามารถกำหนดการเข้าถึง API ได้ และ API จะทำหน้าที่ในการประมวลผลและแลกเปลี่ยนข้อมูลต่างๆ ตามรายการคำสั่งที่ผู้ใช้งานกำหนดเท่านั้น ด้วยคุณสมบัตินี้ API ถูกนำไปใช้ในการพัฒนาโปรแกรมหรือแอปพลิเคชันเพื่ออำนวยความสะดวกให้กับนักลงทุนและผู้ใช้งานอื่น ๆ อย่างมากมาย Open API ที่ InnovestX สามารถทำรายการอะไรได้บ้าง? Open API สำหรับสินทรัพย์ดิจิทัลที่ InnovestX เปิดให้ผู้ใช้งานสามารถเชื่อมต่อการทำรายการ ซื้อ-ขาย ฝากถอน สินทรัพย์ดิจิทัลหรือเงินบาทของท่าน รวมถึงการดูรายการคำสั่ง และประวัติการทำรายการต่างๆเพื่อความรวดเร็วและสะดวกสบายยิ่งขึ้น โดยไม่จำเป็นต้องเข้าหน้าเว็บหลักหรือแอปพลิเคชัน ท่านก็สามารถดึงข้อมูลทั้งหมดที่ให้บริการ API มาแสดงบนเว็บไซต์ที่ท่านพัฒนาได้
+span: การเริ่มต้นใช้
+span: งาน Open API สินทรัพย์ดิจิทัลที่ InnovestX หากท่านต้องการสร้าง API Key สำหรับเริ่มต้นใช้งาน Open API สินทรัพย์ดิจิทัล ท่านสามารถดำเนินการได้ดังนี้
+span: 1. ทำการเข้าสู่ระบบของท่านบนเว็ปไซต์ trade.innovestxonline.com และ เลือกที่เมนู “API Keys” ใต้โปรไฟล์ของท่าน
+span: 2. กดปุ่ม “Generate API Key” เพื่อเริ่มสร้าง API Key
+span: 3. เลือกสิทธิ์ในการใช้งาน API และระบุ IP Addresses สำหรับ API Key
+span: ทำการเลือกสิทธิ์ในการใช้งาน API Key ดังนี้
+span: Trading : สำหรับการซื้อขายสินทรัพย์ดิจิทัล Deposits: สำหรับการฝากสินทรัพย์ดิจิทัล Withdraws: สำหรับการถอนสินทรัพย์ดิจิทัล Read:สำหรับการอ่านข้อมูลในการทำรายการทั้งหมด
+span: ระบุ IP Addresses เพื่อจำกัดการเข้าถึง API Key
+span: Restrict access to trusted IPs only: แนะนำให้จำกัดการใช้งานเฉพาะ IP addresses ที่เชื่อถือได้ให้สามารถเข้าถึงการใช้งาน API Key Unrestricted: ไม่จำกัดการใช้งานของ IP address ที่สามารถเข้าถึง API Key
+span: 4. สำหรับการเปิดใช้งาน 2-Factor Authentication (2FA) ครั้งแรกจะเห็นหน้าจอดังกล่าว ให้ทำตามขั้นตอนที่ระบบแนะนำ หากเคยเปิดใช้งานแล้วให้ข้ามไปขั้นตอนถัดไป
+span: 5. กรอกรหัส 2FA จากแอปพลิเคชัน Google Authenticator เพื่อยืนยันการสร้าง API Key
+span: หมายเหตุ: ท่านจะต้องกรอกรหัส 2FA ที่ได้จากแอปพลิเคชัน Google Authenticator ทุกครั้งเมื่อต้องการลบหรือแก้ไข API Key
+span: 6. ท่านจะได้รับ API Key พร้อมกับ API Secret ให้ทำการจดบันทึก API Secret ไว้ในที่ที่ปลอดภัย โดย API Secret จะแสดงให้ดูเพียงครั้งเดียวในหน้านี้เท่านั้น
+span: ท่านสามารถเริ่มใช้งาน Open API ได้แล้ว กรุณาศึกษาวิธีการใช้งานและการทำงานของ Open API โดยละเอียดก่อนใช้งานที่ https://api-docs.innovestxonline.com/
+span: การสร้าง API Key ก่อนเริ่มต้นใช้งานสามารถดำเนินการได้ผ่านเว็บไซต์เท่านั้น https://trade.innovestxonline.com/digitalassets/api-keys
+
+Links:
+https://trade.innovestxonline.com/digitalassets/
+https://api-docs.innovestxonline.com/
+https://trade.innovestxonline.com/digitalassets/api-keys/
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/about-company/step-1.png
+https://www.innovestx.co.th/images/default-source/about-company/step-2.png
+https://www.innovestx.co.th/images/default-source/about-company/step-3.png
+https://www.innovestx.co.th/images/default-source/about-company/step-4.png
+https://www.innovestx.co.th/images/default-source/about-company/step-5.png
+https://www.innovestx.co.th/images/default-source/about-company/step-6.png

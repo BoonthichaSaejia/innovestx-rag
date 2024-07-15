@@ -1,0 +1,15 @@
+Text Content:
+h2: ประวัติการทำรายการซื้อ-ขาย ฝาก-ถอน เหรียญ
+span: 1. เข้าเว็ปไซต์ trade.innovestxonline.com/digitalassets ทำการล็อกอิน และที่แถบเมนูข้างซ้าย คลิก “รายการคำสั่ง”
+span: 2. เลือกดูรายการคำสั่ง หรือ ประวัติการทำรายการ
+span: 3. เลือกดูรายการคำสั่ง หรือ ประวัติการทำรายการ
+span: 4. เลือกกดตัวกรองเพื่อดูรายการคำสั่งหรือประวัติการทำรายการตามข้อมูลที่ต้องการ
+
+Links:
+https://trade.innovestxonline.com/digitalassets/
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-activity/002.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-activity/003.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-activity/004.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-activity/005.jpg

@@ -1,13 +1,47 @@
 Text Content:
-h1: ตรวจสอบสถานะกองทุนรวม
+h1: วิธีขายกองทุนรวม
 div: 01
-h3: กด “Activity” เลือกแถบ “กองทุนไทย” เพื่อตรวจสอบสถานะคำสั่ง
+div: 1. กดเมนู PORTFOLIO
+div: 2. เลือกกองทุนที่ต้องการขาย
+div: 3. กดขาย
+div: 1.1
+h3: ขายด้วยจำนวนเงิน
+div: 4. ระบุจำนวนเงินที่ต้องการขายกองทุนรวม และกด "ตรวจสอบข้อมูล"
+div: 5. กด ยืนยัน หน้า "ตรวจสอบข้อมูล"
+div: 6. กรอก PIN
+div: 7. ส่งคำสั่งขายเข้าระบบได้สำเร็จ
+div: 1.2
+h3: ขายด้วยจำนวนหน่วย
+div: 4. ระบุจำนวนหน่วยที่ต้องการขายกองทุนรวม และกด “ตรวจสอบข้อมูล”
+div: 5. กดยืนยันหน้าตรวจสอบข้อมูล
+div: 6. กรอก PIN
+div: 7. ส่งคำสั่งขายเข้าระบบได้สำเร็จ
+div: 1.3
+h3: ขายด้วย %
+div: 4. เลือก % ที่ต้องการขายกองทุนรวม และกด “ตรวจสอบข้อมูล”
+div: 5. กดยืนยันหน้าตรวจสอบข้อมูล
+div: 6. กรอก PIN
+div: 7. ส่งคำสั่งขายเข้าระบบได้สำเร็จ
 
 Links:
 https://www.innovestx.co.th/products/product-user-guide/detail/manual/buy-mutal-fund
 https://www.innovestx.co.th/products/product-user-guide/detail/manual/mutual-fund-cancellation
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/check-mutual-fund-status
 https://www.innovestx.co.th/products/product-user-guide/detail/manual/switch-mutual-funds
-https://www.innovestx.co.th/products/product-user-guide/detail/manual/sale-unit-trusts
 
 Image URLs:
-https://www.innovestx.co.th/images/default-source/buy-mutual-funds/61.activity.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/20.main-portfolio.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/21.portfolio_thai-funds.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/22.portfolio_fund_details.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/23.sell_bath.png
+https://www.innovestx.co.th/images/default-source/offshore/05.stock_conclusion.png
+https://www.innovestx.co.th/images/default-source/offshore/06.pin_default_filling.png
+https://www.innovestx.co.th/images/default-source/offshore/07.confirmed_list.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/27.sell_unit.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/28.sell_preconfirm_unit.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/29.buy_pin-copy.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/30.sell_postconfirm.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/31.sell_percentage.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/28.sell_preconfirm_unit.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/29.buy_pin-copy.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/30.sell_postconfirm.png

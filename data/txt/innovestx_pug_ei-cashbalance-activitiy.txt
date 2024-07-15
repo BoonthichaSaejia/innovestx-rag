@@ -1,0 +1,24 @@
+Text Content:
+h1: ประวัติการทำรายการ บัญชีบริหารเงินสด
+div: 01
+h3: ตรวจสอบประวัติการทำรายการ
+div: เลือก ”บัญชีบริหารเงินสด”
+div: เลือกดูประวัติการทำรายการ หรือกด "ตัวกรอง" เพื่อดู ประวัติการทำรายการย้อนหลัง
+div: 02
+h3: เลือกดูประวัติการทำรายการ
+div: เลือกดูประวัติการใช้งาน
+div: ตรวจสอบรายละเอียด ของรายการเพิ่มเติม
+
+Links:
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-withdrawal
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/topup-scb-account
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/topup-qrcode
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-buy-fund
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-sell-fund
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/request-monthly-statement
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/32.picture52-copy.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/43.picture44.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/44.picture28.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/45.picture51.png

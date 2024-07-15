@@ -1,0 +1,35 @@
+Text Content:
+h2: เติมเงินเข้าบัญชีบริหารเงินสดผ่านบัญชีธนาคาร
+div: 01
+h3: เลือก บัญชีบริหารเงินสด เพื่อเปิดและเติมเงิน
+div: เลือก ”บัญชีบริหารเงินสด”
+div: กด “เปิดและเติมเงินเข้า บัญชีบริหารเงินสด”
+div: 02
+h3: เลือกวิธีชำระเงินผ่านบัญชีธนาคาร และระบุจำนวนเงิน
+div: เลือกวิธีชำระเงิน
+div: เลือกบัญชีธนาคาร ที่ต้องการใช้เป็น บัญชีชำระเงิน
+div: ระบุจำนวนเงิน โดย ขั้นตํ่าอยู่ที่ 2,000 บาท แล้วกด "ตรวจสอบข้อมูล"
+h3: *กรณีลูกค้าเติมเงินด้วยบัญชีธนาคารอื่นที่ไม่ใช้ธนาคารไทยพาณิชย์ อาจมีค่าธรรมเนียม **กรุณาทำรายการเติมเงินนอกช่วงเวลา 22.50-23.05 น.
+div: 03
+h3: ยืนยันรายการเติมเงิน
+div: กด “ยืนยัน”
+div: กรอกรหัส PIN
+div: ทำรายการสำเร็จ
+
+Links:
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-withdrawal
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-activitiy
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/topup-qrcode
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-buy-fund
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-sell-fund
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/request-monthly-statement
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/32.picture52-copy.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/02.picture31.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/03.picture32.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/04.picture33.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/05.picture32.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/06.picture35.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/07.buy_pin.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/08.picture36.png

@@ -1,0 +1,25 @@
+Text Content:
+h1: ยกเลิกคำสั่งกองทุนรวม
+div: 01
+h3: กดกองทุนที่ต้องการยกเลิก
+div: 02
+h3: กด ยกเลิก
+div: 03
+h3: กดยืนยันเพื่อยกเลิก
+div: 04
+h3: กรอก PIN
+div: 05
+h3: ส่งคำสั่งซื้อเข้าระบบ สถานะถูกเปลี่ยนเป็น ยกเลิก
+
+Links:
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/buy-mutal-fund
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/check-mutual-fund-status
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/switch-mutual-funds
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/sale-unit-trusts
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/56.activity.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/57.activity_cancel-order.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/58.activity-confirm-cancel-order.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/59.buy_pin-copy.png
+https://www.innovestx.co.th/images/default-source/buy-mutual-funds/60.activity_cancel-success.png

@@ -1,0 +1,30 @@
+Text Content:
+div: 01
+h3: ขั้นตอนการลงทุน DCA หุ้นไทย บนแอป Streaming
+div: 1. ล๊อกอินเข้าแอป Streaming
+div: 2. เลือก My menu ไปที่ Standard Menu 
+                และกด View More
+div: 3. เลือกเมนู DCA Order
+div: 4. กด Add Symbol
+div: 5. เลือกหุ้นที่ต้องการออมแบบ DCA และกด Done *สามารถตั้ง DCA ได้ไม่เกิน 5 รายการ
+div: 6. กำหนดจำนวนเงินลงทุนในแต่ละครั้งต่อหุ้น *ขั้นต่ำ 2,000 บาท/เดือน โดยซื้อเป็น Board Lot หรือ 100 หุ้น
+div: 7. ตั้งเงื่อนไขการลงทุนที่ต้องการ • Frequency: เลือกออมรายเดือน หรือออมรายสัปดาห์ • Date: เลือกวันในการออม • Time: เลือกช่วงเปิดตลาดเช้า หรือ ช่วงเปิดตลาดบ่าย • Duration: เลือกระยะเวลาในการออม
+li: • Frequency: เลือกออมรายเดือน หรือออมรายสัปดาห์
+li: • Date: เลือกวันในการออม
+li: • Time: เลือกช่วงเปิดตลาดเช้า หรือ ช่วงเปิดตลาดบ่าย
+li: • Duration: เลือกระยะเวลาในการออม
+div: 8. ใส่ Pin และกด Submit เพื่อยืนยันคำสั่ง
+h3: เงื่อนไขและข้อควรระวังในการส่งคำสั่ง DCA Order
+
+Links:
+https://wwwa1.settrade.com/brokerpage/023/StaticPage/home/attachfile/equitycomm.html
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-invx/dca-thai-stock/dca1.png
+https://www.innovestx.co.th/images/default-source/manual-invx/dca-thai-stock/dca2.png
+https://www.innovestx.co.th/images/default-source/manual-invx/dca-thai-stock/dca3.png
+https://www.innovestx.co.th/images/default-source/manual-invx/dca-thai-stock/dca4.png
+https://www.innovestx.co.th/images/default-source/manual-invx/dca-thai-stock/dca5.png
+https://www.innovestx.co.th/images/default-source/manual-invx/dca-thai-stock/dca6.png
+https://www.innovestx.co.th/images/default-source/manual-invx/dca-thai-stock/dca7.png
+https://www.innovestx.co.th/images/default-source/manual-invx/dca-thai-stock/dca8.png

@@ -1,0 +1,34 @@
+Text Content:
+h1: ซื้อกองทุนรวมผ่านบัญชีบริหารเงินสด
+div: 01
+h3: เลือกกองทุนรวมที่สนใจ แล้วกด ”Buy”
+div: เลือกกองทุนรวมที่สนใจจาก เมนู “invest” หรือค้นหากองทุนรวมจากปุ่มแว่นขยายบริเวณมุมขวาบน
+div: ศึกษารายละเอียดกองทุนรวมที่สนใจ แล้วกดปุ่ม ”Buy”
+div: เลือกบัญชีชำระเงินเป็น ”บัญชีบริหารเงินสด”
+div: 02
+h3: ระบุจำนวนเงินและกด “ตรวจสอบข้อมูล”
+div: ระบุจำนวนเงิน ที่ต้องการซื้อกองทุนรวม
+div: กดปุ่ม ”ตรวจสอบข้อมูล”
+div: ศึกษารายละเอียดหนังสือชี้ชวนส่วนสรุปข้อมูลสำคัญ แล้วกด “ถัดไป”
+div: 03
+h3: กรอกรหัส PIN เพื่อยืนยันการส่งคำสั่งซื้อ
+div: กรอกรหัส PIN เพื่อ ยืนยัน การส่งคำสั่งซื้อ
+div: ส่งคำสั่งซื้อเข้าระบบได้สำเร็จ โดยสามารถกดปุ่ม “ดูประวัติการทำรายการ” เพื่อตรวจสอบสถานะคำสั่งซื้อ
+
+Links:
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-withdrawal
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-activitiy
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/topup-scb-account
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/topup-qrcode
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/ei-cashbalance-sell-fund
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/request-monthly-statement
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/16.invest_search.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/17.buy_fund.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/18.select_account.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/19.input_amount.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/20.review_info.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/21.notice.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/22.buy_pin-copy.png
+https://www.innovestx.co.th/images/default-source/manual-update_wallet/23.done.png

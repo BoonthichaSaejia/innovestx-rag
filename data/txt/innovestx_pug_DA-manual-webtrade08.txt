@@ -1,0 +1,36 @@
+Text Content:
+h2: วิธีการถอนเหรียญ
+span: 1. เข้าเว็ปไซต์ trade.innovestxonline.com/digitalassets ทำการล็อกอิน และที่แถบเมนูข้างซ้าย คลิก “บัญชีสินทรัพย์ดิจิทัล”
+span: 2. ที่หน้าบัญชีสินทรัพย์ดิจิทัล คลิก “ถอน”
+span: 3. เลือกเหรียญที่ต้องการถอน
+span: 4. วิธีการถอนเหรียญ
+span: 4.1. เลือกเครือข่ายที่ต้องการโอนเหรียญ 4.2. ระบุที่อยู่กระเป๋าผู้รับ 4.3. ระบุจำนวนเหรียญที่ต้องการถอน หรือ กดสูงสุด โดยระบบจะใส่จำนวนเหรียญทั้งหมดที่สามารถโอนได้เมื่อระบุเรียบร้อยแล้ว เลือก "ตรวจสอบข้อมูล”
+span: 4.1. เลือกเครือข่ายที่ต้องการโอนเหรียญ
+span: 4.2. ระบุที่อยู่กระเป๋าผู้รับ
+span: 4.3. ระบุจำนวนเหรียญที่ต้องการถอน หรือ กดสูงสุด
+span: โดยระบบจะใส่จำนวนเหรียญทั้งหมดที่สามารถโอนได้เมื่อระบุเรียบร้อยแล้ว เลือก "ตรวจสอบข้อมูล”
+span: 5. ตรวจสอบข้อมูลที่ต้องการถอนแล้วคลิก “ยืนยัน”
+span: 6. ทำการเปิดใช้งาน 2-Factor Authentication คลิก “ถัดไป”
+span: 7. เปิดใช้งาน 2-Factor Authentication : โดยสแกน QR หรือคัดลอกรหัส ใส่แอป Authenticator ของลูกค้า
+span: 8. กรอกรหัส OTP บนแอป Authenticator เพื่อเปิดใช้งาน
+span: 9. เปิดใช้งานสำเร็จ คลิก “ดำเนินการต่อ”
+span: 10. กรอกรหัส Authenticator : กรอกรหัส OTP จากแอป Authenticator อีกครั้ง เพื่อทำการถอนเหรียญ
+span: 11. ทำการยืนยันการถอนบนอีเมล
+span: 12. หลังจากยืนยันการถอนบนอีเมล สามารถเช็คสถานะถอนได้ที่หน้ารายการคำสั่ง
+
+Links:
+https://trade.innovestxonline.com/digitalassets/
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-withdraw-coin/002.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-withdraw-coin/003.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-withdraw-coin/004.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-withdraw-coin/005.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-withdraw-coin/006.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-withdraw-coin/007.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-withdraw-coin/008.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-withdraw-coin/009.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-withdraw-coin/010.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-withdraw-coin/011.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-withdraw-coin/012.jpg
+https://www.innovestx.co.th/images/default-source/manual-da/da-web-trade/da-manual-withdraw-coin/013.jpg

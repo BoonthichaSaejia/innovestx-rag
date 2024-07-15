@@ -1,7 +1,0 @@
-Text Content:
-h1: วิธีการตั้งแจ้งเตือนบน TradingView คลิก! เพื่ออ่านคู่มือ
-
-Links:
-https://www.innovestx.co.th/docs/default-source/webtrade/tdv_notisetting_manual.pdf?sfvrsn=a41c6061_1
-
-Image URLs:

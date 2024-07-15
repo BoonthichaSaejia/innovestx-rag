@@ -1,0 +1,36 @@
+Text Content:
+h1: ดูรายละเอียดพอร์ตลงทุน (Real time)
+div: 01
+h3: เลือกเมนู “Portfolio”
+div: เลือกเมนู “PORTFOLIO”และเลือกประเภทหลักทรัพย์
+div: เลือกหลักทรัพย์ที่ต้องการดูรายละเอียด
+div: 02
+h3: เลือกหลักทรัพย์ที่ต้องการดูรายละเอียด
+div: ระบบจะแสดงรายละเอียดของหลักทรัพย์
+div: สามารถกด ซื้อ/ขาย/สับเปลี่ยนหลักทรัพย์ดังกล่าวได้
+h1: ดูรายละเอียด My Statement
+div: 01
+h3: เลือกเมนู “My Statement”
+div: เลือกเมนู “My Statement”
+div: ระบบจะแสดงรายละเอียดของหลักทรัพย์ที่เป็นข้อมูลย้อนหลัง 1 วันจากวันปัจจุบัน
+div: 02
+h3: เลือกหลักทรัพย์ที่ต้องการดูรายละเอียด
+div: เลือกหลักทรัพย์ที่ต้องการดูรายละเอียด
+div: ระบบจะแสดงรายละเอียดของหลักทรัพย์
+
+Links:
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/onboarding-manual
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/fund-filter
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/Notification-Tools
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/structured-note
+https://www.innovestx.co.th/products/product-user-guide/detail/manual/buy-bond
+
+Image URLs:
+https://www.innovestx.co.th/images/default-source/manual-real-time/01.picture38.png
+https://www.innovestx.co.th/images/default-source/manual-real-time/02.select_asset.png
+https://www.innovestx.co.th/images/default-source/manual-real-time/03.asset_detail.png
+https://www.innovestx.co.th/images/default-source/manual-real-time/04.buy-sell-asset.png
+https://www.innovestx.co.th/images/default-source/manual-real-time/05.my_statement.png
+https://www.innovestx.co.th/images/default-source/manual-real-time/06.picture1.png
+https://www.innovestx.co.th/images/default-source/manual-real-time/07.picture38-copy-2.png
+https://www.innovestx.co.th/images/default-source/manual-real-time/03.asset_detail.png
